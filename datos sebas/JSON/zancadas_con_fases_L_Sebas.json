@@ -1,0 +1,2773 @@
+[
+  {
+    "Zancada": 1,
+    "Inicio_zancada_CSV": "00:01.984",
+    "Duración_zancada_CSV": "00:00.969",
+    "Inicio_zancada_video": "00:01.740",
+    "Duración_zancada_video": "00:01.130",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:01.984",
+          "Fin_fase": "00:02.080",
+          "Duración_fase": "00:00.096"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:02.080",
+          "Fin_fase": "00:02.274",
+          "Duración_fase": "00:00.193"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:02.274",
+          "Fin_fase": "00:02.468",
+          "Duración_fase": "00:00.193"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:02.468",
+          "Fin_fase": "00:02.565",
+          "Duración_fase": "00:00.096"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:02.565",
+          "Fin_fase": "00:02.691",
+          "Duración_fase": "00:00.125"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:02.691",
+          "Fin_fase": "00:02.827",
+          "Duración_fase": "00:00.135"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:02.827",
+          "Fin_fase": "00:02.952",
+          "Duración_fase": "00:00.125"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:01.740",
+          "Fin_fase": "00:01.853",
+          "Duración_fase": "00:00.113",
+          "Conf_Visual":"True"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:01.853",
+          "Fin_fase": "00:02.079",
+          "Duración_fase": "00:00.226",
+           "Conf_Visual":"True"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:02.079",
+          "Fin_fase": "00:02.305",
+          "Duración_fase": "00:00.226"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:02.305",
+          "Fin_fase": "00:02.418",
+          "Duración_fase": "00:00.113"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:02.418",
+          "Fin_fase": "00:02.564",
+          "Duración_fase": "00:00.146"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:02.564",
+          "Fin_fase": "00:02.723",
+          "Duración_fase": "00:00.158"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:02.723",
+          "Fin_fase": "00:02.870",
+          "Duración_fase": "00:00.146"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 2,
+    "Inicio_zancada_CSV": "00:02.953",
+    "Duración_zancada_CSV": "00:01.093",
+    "Inicio_zancada_video": "00:02.870",
+    "Duración_zancada_video": "00:01.133",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:02.952",
+          "Fin_fase": "00:03.062",
+          "Duración_fase": "00:00.109"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:03.062",
+          "Fin_fase": "00:03.280",
+          "Duración_fase": "00:00.218"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:03.280",
+          "Fin_fase": "00:03.499",
+          "Duración_fase": "00:00.218"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:03.499",
+          "Fin_fase": "00:03.608",
+          "Duración_fase": "00:00.109"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:03.608",
+          "Fin_fase": "00:03.750",
+          "Duración_fase": "00:00.142"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:03.750",
+          "Fin_fase": "00:03.903",
+          "Duración_fase": "00:00.153"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:03.903",
+          "Fin_fase": "00:04.046",
+          "Duración_fase": "00:00.142"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:02.870",
+          "Fin_fase": "00:02.983",
+          "Duración_fase": "00:00.113"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:02.983",
+          "Fin_fase": "00:03.209",
+          "Duración_fase": "00:00.226"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:03.209",
+          "Fin_fase": "00:03.436",
+          "Duración_fase": "00:00.226"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:03.436",
+          "Fin_fase": "00:03.549",
+          "Duración_fase": "00:00.113"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:03.549",
+          "Fin_fase": "00:03.697",
+          "Duración_fase": "00:00.147"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:03.697",
+          "Fin_fase": "00:03.855",
+          "Duración_fase": "00:00.158"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:03.855",
+          "Fin_fase": "00:04.003",
+          "Duración_fase": "00:00.147"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 3,
+    "Inicio_zancada_CSV": "00:04.046",
+    "Duración_zancada_CSV": "00:01.077",
+    "Inicio_zancada_video": "00:04.003",
+    "Duración_zancada_video": "00:01.099",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:04.046",
+          "Fin_fase": "00:04.153",
+          "Duración_fase": "00:00.107"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:04.153",
+          "Fin_fase": "00:04.369",
+          "Duración_fase": "00:00.215"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:04.369",
+          "Fin_fase": "00:04.584",
+          "Duración_fase": "00:00.215"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:04.584",
+          "Fin_fase": "00:04.692",
+          "Duración_fase": "00:00.107"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:04.692",
+          "Fin_fase": "00:04.832",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:04.832",
+          "Fin_fase": "00:04.982",
+          "Duración_fase": "00:00.150"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:04.982",
+          "Fin_fase": "00:05.123",
+          "Duración_fase": "00:00.140"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:04.003",
+          "Fin_fase": "00:04.112",
+          "Duración_fase": "00:00.109"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:04.112",
+          "Fin_fase": "00:04.332",
+          "Duración_fase": "00:00.219"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:04.332",
+          "Fin_fase": "00:04.552",
+          "Duración_fase": "00:00.219"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:04.552",
+          "Fin_fase": "00:04.662",
+          "Duración_fase": "00:00.109"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:04.662",
+          "Fin_fase": "00:04.805",
+          "Duración_fase": "00:00.142"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:04.805",
+          "Fin_fase": "00:04.959",
+          "Duración_fase": "00:00.153"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:04.959",
+          "Fin_fase": "00:05.102",
+          "Duración_fase": "00:00.142"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 6,
+    "Inicio_zancada_CSV": "00:08.123",
+    "Duración_zancada_CSV": "00:01.177",
+    "Inicio_zancada_video": "00:08.001",
+    "Duración_zancada_video": "00:01.233",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:08.122",
+          "Fin_fase": "00:08.240",
+          "Duración_fase": "00:00.117"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:08.240",
+          "Fin_fase": "00:08.476",
+          "Duración_fase": "00:00.235"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:08.476",
+          "Fin_fase": "00:08.711",
+          "Duración_fase": "00:00.235"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:08.711",
+          "Fin_fase": "00:08.829",
+          "Duración_fase": "00:00.117"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:08.829",
+          "Fin_fase": "00:08.982",
+          "Duración_fase": "00:00.153"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:08.982",
+          "Fin_fase": "00:09.146",
+          "Duración_fase": "00:00.164"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:09.146",
+          "Fin_fase": "00:09.300",
+          "Duración_fase": "00:00.153"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:08.000",
+          "Fin_fase": "00:08.124",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:08.124",
+          "Fin_fase": "00:08.370",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:08.370",
+          "Fin_fase": "00:08.617",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:08.617",
+          "Fin_fase": "00:08.740",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:08.740",
+          "Fin_fase": "00:08.901",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:08.901",
+          "Fin_fase": "00:09.073",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:09.073",
+          "Fin_fase": "00:09.234",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 7,
+    "Inicio_zancada_CSV": "00:09.230",
+    "Duración_zancada_CSV": "00:01.154",
+    "Inicio_zancada_video": "00:09.234",
+    "Duración_zancada_video": "00:01.199",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:09.230",
+          "Fin_fase": "00:09.345",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:09.345",
+          "Fin_fase": "00:09.576",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:09.576",
+          "Fin_fase": "00:09.807",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:09.807",
+          "Fin_fase": "00:09.922",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:09.922",
+          "Fin_fase": "00:10.072",
+          "Duración_fase": "00:00.150"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:10.072",
+          "Fin_fase": "00:10.233",
+          "Duración_fase": "00:00.161"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:10.233",
+          "Fin_fase": "00:10.384",
+          "Duración_fase": "00:00.150"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:09.234",
+          "Fin_fase": "00:09.353",
+          "Duración_fase": "00:00.119"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:09.353",
+          "Fin_fase": "00:09.593",
+          "Duración_fase": "00:00.239"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:09.593",
+          "Fin_fase": "00:09.833",
+          "Duración_fase": "00:00.239"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:09.833",
+          "Fin_fase": "00:09.953",
+          "Duración_fase": "00:00.119"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:09.953",
+          "Fin_fase": "00:10.109",
+          "Duración_fase": "00:00.155"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:10.109",
+          "Fin_fase": "00:10.277",
+          "Duración_fase": "00:00.167"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:10.277",
+          "Fin_fase": "00:10.432",
+          "Duración_fase": "00:00.155"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 8,
+    "Inicio_zancada_CSV": "00:10.384",
+    "Duración_zancada_CSV": "00:01.231",
+    "Inicio_zancada_video": "00:10.433",
+    "Duración_zancada_video": "00:01.233",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:10.384",
+          "Fin_fase": "00:10.507",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:10.507",
+          "Fin_fase": "00:10.753",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:10.753",
+          "Fin_fase": "00:10.999",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:10.999",
+          "Fin_fase": "00:11.122",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:11.122",
+          "Fin_fase": "00:11.282",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:11.282",
+          "Fin_fase": "00:11.454",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:11.454",
+          "Fin_fase": "00:11.615",
+          "Duración_fase": "00:00.160"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:10.432",
+          "Fin_fase": "00:10.556",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:10.556",
+          "Fin_fase": "00:10.802",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:10.802",
+          "Fin_fase": "00:11.049",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:11.049",
+          "Fin_fase": "00:11.172",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:11.172",
+          "Fin_fase": "00:11.333",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:11.333",
+          "Fin_fase": "00:11.505",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:11.505",
+          "Fin_fase": "00:11.666",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 10,
+    "Inicio_zancada_CSV": "00:14.323",
+    "Duración_zancada_CSV": "00:01.153",
+    "Inicio_zancada_video": "00:14.431",
+    "Duración_zancada_video": "00:01.166",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:14.323",
+          "Fin_fase": "00:14.438",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:14.438",
+          "Fin_fase": "00:14.668",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:14.668",
+          "Fin_fase": "00:14.899",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:14.899",
+          "Fin_fase": "00:15.014",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:15.014",
+          "Fin_fase": "00:15.164",
+          "Duración_fase": "00:00.149"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:15.164",
+          "Fin_fase": "00:15.326",
+          "Duración_fase": "00:00.161"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:15.326",
+          "Fin_fase": "00:15.475",
+          "Duración_fase": "00:00.149"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:14.430",
+          "Fin_fase": "00:14.547",
+          "Duración_fase": "00:00.116"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:14.547",
+          "Fin_fase": "00:14.780",
+          "Duración_fase": "00:00.233"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:14.780",
+          "Fin_fase": "00:15.013",
+          "Duración_fase": "00:00.233"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:15.013",
+          "Fin_fase": "00:15.130",
+          "Duración_fase": "00:00.116"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:15.130",
+          "Fin_fase": "00:15.282",
+          "Duración_fase": "00:00.151"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:15.282",
+          "Fin_fase": "00:15.445",
+          "Duración_fase": "00:00.163"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:15.445",
+          "Fin_fase": "00:15.596",
+          "Duración_fase": "00:00.151"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 11,
+    "Inicio_zancada_CSV": "00:15.476",
+    "Duración_zancada_CSV": "00:01.139",
+    "Inicio_zancada_video": "00:15.597",
+    "Duración_zancada_video": "00:01.166",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:15.475",
+          "Fin_fase": "00:15.589",
+          "Duración_fase": "00:00.113"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:15.589",
+          "Fin_fase": "00:15.817",
+          "Duración_fase": "00:00.227"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:15.817",
+          "Fin_fase": "00:16.045",
+          "Duración_fase": "00:00.227"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:16.045",
+          "Fin_fase": "00:16.159",
+          "Duración_fase": "00:00.113"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:16.159",
+          "Fin_fase": "00:16.307",
+          "Duración_fase": "00:00.148"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:16.307",
+          "Fin_fase": "00:16.466",
+          "Duración_fase": "00:00.159"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:16.466",
+          "Fin_fase": "00:16.614",
+          "Duración_fase": "00:00.148"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:15.596",
+          "Fin_fase": "00:15.713",
+          "Duración_fase": "00:00.116"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:15.713",
+          "Fin_fase": "00:15.946",
+          "Duración_fase": "00:00.233"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:15.946",
+          "Fin_fase": "00:16.179",
+          "Duración_fase": "00:00.233"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:16.179",
+          "Fin_fase": "00:16.296",
+          "Duración_fase": "00:00.116"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:16.296",
+          "Fin_fase": "00:16.448",
+          "Duración_fase": "00:00.151"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:16.448",
+          "Fin_fase": "00:16.611",
+          "Duración_fase": "00:00.163"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:16.611",
+          "Fin_fase": "00:16.763",
+          "Duración_fase": "00:00.151"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 14,
+    "Inicio_zancada_CSV": "00:19.646",
+    "Duración_zancada_CSV": "00:01.000",
+    "Inicio_zancada_video": "00:19.462",
+    "Duración_zancada_video": "00:01.400",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:19.646",
+          "Fin_fase": "00:19.745",
+          "Duración_fase": "00:00.100"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:19.745",
+          "Fin_fase": "00:19.946",
+          "Duración_fase": "00:00.200"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:19.946",
+          "Fin_fase": "00:20.146",
+          "Duración_fase": "00:00.200"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:20.146",
+          "Fin_fase": "00:20.245",
+          "Duración_fase": "00:00.100"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:20.245",
+          "Fin_fase": "00:20.376",
+          "Duración_fase": "00:00.130"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:20.376",
+          "Fin_fase": "00:20.515",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:20.515",
+          "Fin_fase": "00:20.646",
+          "Duración_fase": "00:00.130"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:19.461",
+          "Fin_fase": "00:19.602",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:19.602",
+          "Fin_fase": "00:19.882",
+          "Duración_fase": "00:00.280"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:19.882",
+          "Fin_fase": "00:20.161",
+          "Duración_fase": "00:00.280"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:20.161",
+          "Fin_fase": "00:20.301",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:20.301",
+          "Fin_fase": "00:20.484",
+          "Duración_fase": "00:00.182"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:20.484",
+          "Fin_fase": "00:20.679",
+          "Duración_fase": "00:00.196"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:20.679",
+          "Fin_fase": "00:20.861",
+          "Duración_fase": "00:00.182"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 15,
+    "Inicio_zancada_CSV": "00:20.646",
+    "Duración_zancada_CSV": "00:01.261",
+    "Inicio_zancada_video": "00:20.862",
+    "Duración_zancada_video": "00:00.266",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:20.646",
+          "Fin_fase": "00:20.772",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:20.772",
+          "Fin_fase": "00:21.024",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:21.024",
+          "Fin_fase": "00:21.276",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:21.276",
+          "Fin_fase": "00:21.402",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:21.402",
+          "Fin_fase": "00:21.566",
+          "Duración_fase": "00:00.163"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:21.566",
+          "Fin_fase": "00:21.743",
+          "Duración_fase": "00:00.176"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:21.743",
+          "Fin_fase": "00:21.907",
+          "Duración_fase": "00:00.163"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:20.861",
+          "Fin_fase": "00:20.888",
+          "Duración_fase": "00:00.026"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:20.888",
+          "Fin_fase": "00:20.941",
+          "Duración_fase": "00:00.053"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:20.941",
+          "Fin_fase": "00:20.995",
+          "Duración_fase": "00:00.053"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:20.995",
+          "Fin_fase": "00:21.021",
+          "Duración_fase": "00:00.026"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:21.021",
+          "Fin_fase": "00:21.056",
+          "Duración_fase": "00:00.034"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:21.056",
+          "Fin_fase": "00:21.093",
+          "Duración_fase": "00:00.037"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:21.093",
+          "Fin_fase": "00:21.128",
+          "Duración_fase": "00:00.034"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 16,
+    "Inicio_zancada_CSV": "00:21.907",
+    "Duración_zancada_CSV": "00:01.231",
+    "Inicio_zancada_video": "00:21.128",
+    "Duración_zancada_video": "00:02.232",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:21.907",
+          "Fin_fase": "00:22.030",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:22.030",
+          "Fin_fase": "00:22.276",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:22.276",
+          "Fin_fase": "00:22.522",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:22.522",
+          "Fin_fase": "00:22.645",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:22.645",
+          "Fin_fase": "00:22.805",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:22.805",
+          "Fin_fase": "00:22.977",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:22.977",
+          "Fin_fase": "00:23.138",
+          "Duración_fase": "00:00.160"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:21.128",
+          "Fin_fase": "00:21.351",
+          "Duración_fase": "00:00.223"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:21.351",
+          "Fin_fase": "00:21.797",
+          "Duración_fase": "00:00.446"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:21.797",
+          "Fin_fase": "00:22.243",
+          "Duración_fase": "00:00.446"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:22.243",
+          "Fin_fase": "00:22.467",
+          "Duración_fase": "00:00.223"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:22.467",
+          "Fin_fase": "00:22.757",
+          "Duración_fase": "00:00.290"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:22.757",
+          "Fin_fase": "00:23.069",
+          "Duración_fase": "00:00.312"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:23.069",
+          "Fin_fase": "00:23.359",
+          "Duración_fase": "00:00.290"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 18,
+    "Inicio_zancada_CSV": "00:25.846",
+    "Duración_zancada_CSV": "00:01.107",
+    "Inicio_zancada_video": "00:26.026",
+    "Duración_zancada_video": "00:01.199",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:25.846",
+          "Fin_fase": "00:25.956",
+          "Duración_fase": "00:00.110"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:25.956",
+          "Fin_fase": "00:26.178",
+          "Duración_fase": "00:00.221"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:26.178",
+          "Fin_fase": "00:26.399",
+          "Duración_fase": "00:00.221"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:26.399",
+          "Fin_fase": "00:26.510",
+          "Duración_fase": "00:00.110"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:26.510",
+          "Fin_fase": "00:26.654",
+          "Duración_fase": "00:00.143"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:26.654",
+          "Fin_fase": "00:26.809",
+          "Duración_fase": "00:00.154"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:26.809",
+          "Fin_fase": "00:26.952",
+          "Duración_fase": "00:00.143"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:26.025",
+          "Fin_fase": "00:26.145",
+          "Duración_fase": "00:00.119"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:26.145",
+          "Fin_fase": "00:26.385",
+          "Duración_fase": "00:00.239"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:26.385",
+          "Fin_fase": "00:26.625",
+          "Duración_fase": "00:00.239"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:26.625",
+          "Fin_fase": "00:26.745",
+          "Duración_fase": "00:00.119"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:26.745",
+          "Fin_fase": "00:26.901",
+          "Duración_fase": "00:00.155"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:26.901",
+          "Fin_fase": "00:27.069",
+          "Duración_fase": "00:00.167"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:27.069",
+          "Fin_fase": "00:27.225",
+          "Duración_fase": "00:00.155"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 19,
+    "Inicio_zancada_CSV": "00:26.953",
+    "Duración_zancada_CSV": "00:01.262",
+    "Inicio_zancada_video": "00:27.225",
+    "Duración_zancada_video": "00:01.233",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:26.952",
+          "Fin_fase": "00:27.079",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:27.079",
+          "Fin_fase": "00:27.331",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:27.331",
+          "Fin_fase": "00:27.583",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:27.583",
+          "Fin_fase": "00:27.710",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:27.710",
+          "Fin_fase": "00:27.874",
+          "Duración_fase": "00:00.164"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:27.874",
+          "Fin_fase": "00:28.050",
+          "Duración_fase": "00:00.176"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:28.050",
+          "Fin_fase": "00:28.214",
+          "Duración_fase": "00:00.164"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:27.225",
+          "Fin_fase": "00:27.348",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:27.348",
+          "Fin_fase": "00:27.594",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:27.594",
+          "Fin_fase": "00:27.841",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:27.841",
+          "Fin_fase": "00:27.964",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:27.964",
+          "Fin_fase": "00:28.125",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:28.125",
+          "Fin_fase": "00:28.297",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:28.297",
+          "Fin_fase": "00:28.457",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 22,
+    "Inicio_zancada_CSV": "00:31.138",
+    "Duración_zancada_CSV": "00:00.954",
+    "Inicio_zancada_video": "00:31.123",
+    "Duración_zancada_video": "00:01.366",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:31.138",
+          "Fin_fase": "00:31.233",
+          "Duración_fase": "00:00.095"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:31.233",
+          "Fin_fase": "00:31.424",
+          "Duración_fase": "00:00.190"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:31.424",
+          "Fin_fase": "00:31.614",
+          "Duración_fase": "00:00.190"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:31.614",
+          "Fin_fase": "00:31.710",
+          "Duración_fase": "00:00.095"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:31.710",
+          "Fin_fase": "00:31.834",
+          "Duración_fase": "00:00.124"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:31.834",
+          "Fin_fase": "00:31.967",
+          "Duración_fase": "00:00.133"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:31.967",
+          "Fin_fase": "00:32.091",
+          "Duración_fase": "00:00.124"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:31.123",
+          "Fin_fase": "00:31.259",
+          "Duración_fase": "00:00.136"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:31.259",
+          "Fin_fase": "00:31.532",
+          "Duración_fase": "00:00.273"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:31.532",
+          "Fin_fase": "00:31.806",
+          "Duración_fase": "00:00.273"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:31.806",
+          "Fin_fase": "00:31.942",
+          "Duración_fase": "00:00.136"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:31.942",
+          "Fin_fase": "00:32.120",
+          "Duración_fase": "00:00.177"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:32.120",
+          "Fin_fase": "00:32.311",
+          "Duración_fase": "00:00.191"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:32.311",
+          "Fin_fase": "00:32.488",
+          "Duración_fase": "00:00.177"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 23,
+    "Inicio_zancada_CSV": "00:32.092",
+    "Duración_zancada_CSV": "00:01.231",
+    "Inicio_zancada_video": "00:32.489",
+    "Duración_zancada_video": "00:01.267",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:32.091",
+          "Fin_fase": "00:32.215",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:32.215",
+          "Fin_fase": "00:32.461",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:32.461",
+          "Fin_fase": "00:32.707",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:32.707",
+          "Fin_fase": "00:32.830",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:32.830",
+          "Fin_fase": "00:32.990",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:32.990",
+          "Fin_fase": "00:33.162",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:33.162",
+          "Fin_fase": "00:33.323",
+          "Duración_fase": "00:00.160"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:32.488",
+          "Fin_fase": "00:32.615",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:32.615",
+          "Fin_fase": "00:32.869",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:32.869",
+          "Fin_fase": "00:33.122",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:33.122",
+          "Fin_fase": "00:33.249",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:33.249",
+          "Fin_fase": "00:33.413",
+          "Duración_fase": "00:00.164"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:33.413",
+          "Fin_fase": "00:33.591",
+          "Duración_fase": "00:00.177"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:33.591",
+          "Fin_fase": "00:33.756",
+          "Duración_fase": "00:00.164"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 25,
+    "Inicio_zancada_CSV": "00:37.430",
+    "Duración_zancada_CSV": "00:01.370",
+    "Inicio_zancada_video": "00:37.854",
+    "Duración_zancada_video": "00:01.232",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:37.429",
+          "Fin_fase": "00:37.567",
+          "Duración_fase": "00:00.137"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:37.567",
+          "Fin_fase": "00:37.841",
+          "Duración_fase": "00:00.274"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:37.841",
+          "Fin_fase": "00:38.115",
+          "Duración_fase": "00:00.274"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:38.115",
+          "Fin_fase": "00:38.252",
+          "Duración_fase": "00:00.137"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:38.252",
+          "Fin_fase": "00:38.430",
+          "Duración_fase": "00:00.178"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:38.430",
+          "Fin_fase": "00:38.621",
+          "Duración_fase": "00:00.191"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:38.621",
+          "Fin_fase": "00:38.799",
+          "Duración_fase": "00:00.178"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:37.853",
+          "Fin_fase": "00:37.977",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:37.977",
+          "Fin_fase": "00:38.223",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:38.223",
+          "Fin_fase": "00:38.469",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:38.469",
+          "Fin_fase": "00:38.593",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:38.593",
+          "Fin_fase": "00:38.753",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:38.753",
+          "Fin_fase": "00:38.925",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:38.925",
+          "Fin_fase": "00:39.085",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 26,
+    "Inicio_zancada_CSV": "00:38.800",
+    "Duración_zancada_CSV": "00:01.220",
+    "Inicio_zancada_video": "00:39.086",
+    "Duración_zancada_video": "00:01.233",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:38.799",
+          "Fin_fase": "00:38.921",
+          "Duración_fase": "00:00.122"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:38.921",
+          "Fin_fase": "00:39.165",
+          "Duración_fase": "00:00.244"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:39.165",
+          "Fin_fase": "00:39.409",
+          "Duración_fase": "00:00.244"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:39.409",
+          "Fin_fase": "00:39.531",
+          "Duración_fase": "00:00.122"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:39.531",
+          "Fin_fase": "00:39.690",
+          "Duración_fase": "00:00.158"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:39.690",
+          "Fin_fase": "00:39.861",
+          "Duración_fase": "00:00.170"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:39.861",
+          "Fin_fase": "00:40.020",
+          "Duración_fase": "00:00.158"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:39.085",
+          "Fin_fase": "00:39.209",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:39.209",
+          "Fin_fase": "00:39.455",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:39.455",
+          "Fin_fase": "00:39.702",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:39.702",
+          "Fin_fase": "00:39.825",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:39.825",
+          "Fin_fase": "00:39.986",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:39.986",
+          "Fin_fase": "00:40.158",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:40.158",
+          "Fin_fase": "00:40.319",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 29,
+    "Inicio_zancada_CSV": "00:42.969",
+    "Duración_zancada_CSV": "00:01.154",
+    "Inicio_zancada_video": "00:43.018",
+    "Duración_zancada_video": "00:01.433",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:42.969",
+          "Fin_fase": "00:43.084",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:43.084",
+          "Fin_fase": "00:43.315",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:43.315",
+          "Fin_fase": "00:43.545",
+          "Duración_fase": "00:00.230"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:43.545",
+          "Fin_fase": "00:43.661",
+          "Duración_fase": "00:00.115"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:43.661",
+          "Fin_fase": "00:43.811",
+          "Duración_fase": "00:00.150"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:43.811",
+          "Fin_fase": "00:43.972",
+          "Duración_fase": "00:00.161"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:43.972",
+          "Fin_fase": "00:44.122",
+          "Duración_fase": "00:00.150"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:43.018",
+          "Fin_fase": "00:43.161",
+          "Duración_fase": "00:00.143"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:43.161",
+          "Fin_fase": "00:43.447",
+          "Duración_fase": "00:00.286"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:43.447",
+          "Fin_fase": "00:43.734",
+          "Duración_fase": "00:00.286"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:43.734",
+          "Fin_fase": "00:43.877",
+          "Duración_fase": "00:00.143"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:43.877",
+          "Fin_fase": "00:44.064",
+          "Duración_fase": "00:00.186"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:44.064",
+          "Fin_fase": "00:44.264",
+          "Duración_fase": "00:00.200"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:44.264",
+          "Fin_fase": "00:44.451",
+          "Duración_fase": "00:00.186"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 30,
+    "Inicio_zancada_CSV": "00:45.092",
+    "Duración_zancada_CSV": "00:01.184",
+    "Inicio_zancada_video": "00:44.451",
+    "Duración_zancada_video": "00:01.232",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:45.091",
+          "Fin_fase": "00:45.210",
+          "Duración_fase": "00:00.118"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:45.210",
+          "Fin_fase": "00:45.447",
+          "Duración_fase": "00:00.236"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:45.447",
+          "Fin_fase": "00:45.683",
+          "Duración_fase": "00:00.236"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:45.683",
+          "Fin_fase": "00:45.802",
+          "Duración_fase": "00:00.118"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:45.802",
+          "Fin_fase": "00:45.956",
+          "Duración_fase": "00:00.153"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:45.956",
+          "Fin_fase": "00:46.122",
+          "Duración_fase": "00:00.165"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:46.122",
+          "Fin_fase": "00:46.276",
+          "Duración_fase": "00:00.153"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:44.451",
+          "Fin_fase": "00:44.574",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:44.574",
+          "Fin_fase": "00:44.820",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:44.820",
+          "Fin_fase": "00:45.067",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:45.067",
+          "Fin_fase": "00:45.190",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:45.190",
+          "Fin_fase": "00:45.350",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:45.350",
+          "Fin_fase": "00:45.522",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:45.522",
+          "Fin_fase": "00:45.682",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 31,
+    "Inicio_zancada_CSV": "00:45.307",
+    "Duración_zancada_CSV": "00:01.016",
+    "Inicio_zancada_video": "00:45.683",
+    "Duración_zancada_video": "00:01.233",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:45.307",
+          "Fin_fase": "00:45.408",
+          "Duración_fase": "00:00.101"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:45.408",
+          "Fin_fase": "00:45.611",
+          "Duración_fase": "00:00.203"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:45.611",
+          "Fin_fase": "00:45.814",
+          "Duración_fase": "00:00.203"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:45.814",
+          "Fin_fase": "00:45.916",
+          "Duración_fase": "00:00.101"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:45.916",
+          "Fin_fase": "00:46.048",
+          "Duración_fase": "00:00.132"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:46.048",
+          "Fin_fase": "00:46.190",
+          "Duración_fase": "00:00.142"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:46.190",
+          "Fin_fase": "00:46.323",
+          "Duración_fase": "00:00.132"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:45.682",
+          "Fin_fase": "00:45.806",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:45.806",
+          "Fin_fase": "00:46.052",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:46.052",
+          "Fin_fase": "00:46.299",
+          "Duración_fase": "00:00.246"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:46.299",
+          "Fin_fase": "00:46.422",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:46.422",
+          "Fin_fase": "00:46.583",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:46.583",
+          "Fin_fase": "00:46.755",
+          "Duración_fase": "00:00.172"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:46.755",
+          "Fin_fase": "00:46.915",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 34,
+    "Inicio_zancada_CSV": "00:50.676",
+    "Duración_zancada_CSV": "00:01.247",
+    "Inicio_zancada_video": "00:50.048",
+    "Duración_zancada_video": "00:01.299",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:50.676",
+          "Fin_fase": "00:50.800",
+          "Duración_fase": "00:00.124"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:50.800",
+          "Fin_fase": "00:51.050",
+          "Duración_fase": "00:00.249"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:51.050",
+          "Fin_fase": "00:51.299",
+          "Duración_fase": "00:00.249"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:51.299",
+          "Fin_fase": "00:51.424",
+          "Duración_fase": "00:00.124"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:51.424",
+          "Fin_fase": "00:51.586",
+          "Duración_fase": "00:00.162"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:51.586",
+          "Fin_fase": "00:51.760",
+          "Duración_fase": "00:00.174"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:51.760",
+          "Fin_fase": "00:51.923",
+          "Duración_fase": "00:00.162"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:50.048",
+          "Fin_fase": "00:50.177",
+          "Duración_fase": "00:00.129"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:50.177",
+          "Fin_fase": "00:50.437",
+          "Duración_fase": "00:00.259"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:50.437",
+          "Fin_fase": "00:50.697",
+          "Duración_fase": "00:00.259"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:50.697",
+          "Fin_fase": "00:50.827",
+          "Duración_fase": "00:00.129"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:50.827",
+          "Fin_fase": "00:50.996",
+          "Duración_fase": "00:00.168"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:50.996",
+          "Fin_fase": "00:51.178",
+          "Duración_fase": "00:00.181"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:51.178",
+          "Fin_fase": "00:51.347",
+          "Duración_fase": "00:00.168"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 35,
+    "Inicio_zancada_CSV": "00:51.923",
+    "Duración_zancada_CSV": "00:01.353",
+    "Inicio_zancada_video": "00:51.347",
+    "Duración_zancada_video": "00:01.267",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:51.923",
+          "Fin_fase": "00:52.058",
+          "Duración_fase": "00:00.135"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:52.058",
+          "Fin_fase": "00:52.328",
+          "Duración_fase": "00:00.270"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:52.328",
+          "Fin_fase": "00:52.599",
+          "Duración_fase": "00:00.270"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:52.599",
+          "Fin_fase": "00:52.734",
+          "Duración_fase": "00:00.135"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:52.734",
+          "Fin_fase": "00:52.910",
+          "Duración_fase": "00:00.175"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:52.910",
+          "Fin_fase": "00:53.100",
+          "Duración_fase": "00:00.189"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:53.100",
+          "Fin_fase": "00:53.276",
+          "Duración_fase": "00:00.175"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:51.347",
+          "Fin_fase": "00:51.473",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:51.473",
+          "Fin_fase": "00:51.727",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:51.727",
+          "Fin_fase": "00:51.980",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:51.980",
+          "Fin_fase": "00:52.107",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:52.107",
+          "Fin_fase": "00:52.271",
+          "Duración_fase": "00:00.164"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:52.271",
+          "Fin_fase": "00:52.449",
+          "Duración_fase": "00:00.177"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:52.449",
+          "Fin_fase": "00:52.613",
+          "Duración_fase": "00:00.164"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 38,
+    "Inicio_zancada_CSV": "00:56.430",
+    "Duración_zancada_CSV": "00:01.323",
+    "Inicio_zancada_video": "00:55.479",
+    "Duración_zancada_video": "00:01.466",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:56.429",
+          "Fin_fase": "00:56.562",
+          "Duración_fase": "00:00.132"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:56.562",
+          "Fin_fase": "00:56.826",
+          "Duración_fase": "00:00.264"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:56.826",
+          "Fin_fase": "00:57.091",
+          "Duración_fase": "00:00.264"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:57.091",
+          "Fin_fase": "00:57.223",
+          "Duración_fase": "00:00.132"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:57.223",
+          "Fin_fase": "00:57.395",
+          "Duración_fase": "00:00.171"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:57.395",
+          "Fin_fase": "00:57.581",
+          "Duración_fase": "00:00.185"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:57.581",
+          "Fin_fase": "00:57.753",
+          "Duración_fase": "00:00.171"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:55.478",
+          "Fin_fase": "00:55.625",
+          "Duración_fase": "00:00.146"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:55.625",
+          "Fin_fase": "00:55.918",
+          "Duración_fase": "00:00.293"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:55.918",
+          "Fin_fase": "00:56.212",
+          "Duración_fase": "00:00.293"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:56.212",
+          "Fin_fase": "00:56.358",
+          "Duración_fase": "00:00.146"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:56.358",
+          "Fin_fase": "00:56.549",
+          "Duración_fase": "00:00.190"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:56.549",
+          "Fin_fase": "00:56.754",
+          "Duración_fase": "00:00.205"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:56.754",
+          "Fin_fase": "00:56.945",
+          "Duración_fase": "00:00.190"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 39,
+    "Inicio_zancada_CSV": "00:57.753",
+    "Duración_zancada_CSV": "00:01.216",
+    "Inicio_zancada_video": "00:56.945",
+    "Duración_zancada_video": "00:01.266",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:57.753",
+          "Fin_fase": "00:57.874",
+          "Duración_fase": "00:00.121"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:57.874",
+          "Fin_fase": "00:58.117",
+          "Duración_fase": "00:00.243"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:58.117",
+          "Fin_fase": "00:58.360",
+          "Duración_fase": "00:00.243"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:58.360",
+          "Fin_fase": "00:58.482",
+          "Duración_fase": "00:00.121"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:58.482",
+          "Fin_fase": "00:58.640",
+          "Duración_fase": "00:00.158"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:58.640",
+          "Fin_fase": "00:58.810",
+          "Duración_fase": "00:00.170"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:58.810",
+          "Fin_fase": "00:58.969",
+          "Duración_fase": "00:00.158"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "00:56.945",
+          "Fin_fase": "00:57.071",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "00:57.071",
+          "Fin_fase": "00:57.324",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "00:57.324",
+          "Fin_fase": "00:57.578",
+          "Duración_fase": "00:00.253"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "00:57.578",
+          "Fin_fase": "00:57.704",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "00:57.704",
+          "Fin_fase": "00:57.869",
+          "Duración_fase": "00:00.164"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "00:57.869",
+          "Fin_fase": "00:58.046",
+          "Duración_fase": "00:00.177"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "00:58.046",
+          "Fin_fase": "00:58.210",
+          "Duración_fase": "00:00.164"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 42,
+    "Inicio_zancada_CSV": "01:03.123",
+    "Duración_zancada_CSV": "00:01.246",
+    "Inicio_zancada_video": "01:02.676",
+    "Duración_zancada_video": "00:01.332",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:03.122",
+          "Fin_fase": "01:03.247",
+          "Duración_fase": "00:00.124"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:03.247",
+          "Fin_fase": "01:03.496",
+          "Duración_fase": "00:00.249"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:03.496",
+          "Fin_fase": "01:03.746",
+          "Duración_fase": "00:00.249"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:03.746",
+          "Fin_fase": "01:03.870",
+          "Duración_fase": "00:00.124"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:03.870",
+          "Fin_fase": "01:04.032",
+          "Duración_fase": "00:00.161"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:04.032",
+          "Fin_fase": "01:04.207",
+          "Duración_fase": "00:00.174"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:04.207",
+          "Fin_fase": "01:04.368",
+          "Duración_fase": "00:00.161"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:02.676",
+          "Fin_fase": "01:02.809",
+          "Duración_fase": "00:00.133"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:02.809",
+          "Fin_fase": "01:03.075",
+          "Duración_fase": "00:00.266"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:03.075",
+          "Fin_fase": "01:03.341",
+          "Duración_fase": "00:00.266"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:03.341",
+          "Fin_fase": "01:03.475",
+          "Duración_fase": "00:00.133"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:03.475",
+          "Fin_fase": "01:03.648",
+          "Duración_fase": "00:00.173"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:03.648",
+          "Fin_fase": "01:03.834",
+          "Duración_fase": "00:00.186"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:03.834",
+          "Fin_fase": "01:04.007",
+          "Duración_fase": "00:00.173"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 43,
+    "Inicio_zancada_CSV": "01:04.369",
+    "Duración_zancada_CSV": "00:01.261",
+    "Inicio_zancada_video": "01:04.008",
+    "Duración_zancada_video": "00:01.238",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:04.368",
+          "Fin_fase": "01:04.495",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:04.495",
+          "Fin_fase": "01:04.747",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:04.747",
+          "Fin_fase": "01:04.999",
+          "Duración_fase": "00:00.252"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:04.999",
+          "Fin_fase": "01:05.125",
+          "Duración_fase": "00:00.126"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:05.125",
+          "Fin_fase": "01:05.289",
+          "Duración_fase": "00:00.163"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:05.289",
+          "Fin_fase": "01:05.466",
+          "Duración_fase": "00:00.176"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:05.466",
+          "Fin_fase": "01:05.629",
+          "Duración_fase": "00:00.163"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:04.007",
+          "Fin_fase": "01:04.131",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:04.131",
+          "Fin_fase": "01:04.379",
+          "Duración_fase": "00:00.247"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:04.379",
+          "Fin_fase": "01:04.626",
+          "Duración_fase": "00:00.247"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:04.626",
+          "Fin_fase": "01:04.750",
+          "Duración_fase": "00:00.123"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:04.750",
+          "Fin_fase": "01:04.911",
+          "Duración_fase": "00:00.160"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:04.911",
+          "Fin_fase": "01:05.085",
+          "Duración_fase": "00:00.173"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:05.085",
+          "Fin_fase": "01:05.245",
+          "Duración_fase": "00:00.160"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 46,
+    "Inicio_zancada_CSV": "01:08.799",
+    "Duración_zancada_CSV": "00:01.354",
+    "Inicio_zancada_video": "01:08.106",
+    "Duración_zancada_video": "00:01.666",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:08.799",
+          "Fin_fase": "01:08.934",
+          "Duración_fase": "00:00.135"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:08.934",
+          "Fin_fase": "01:09.205",
+          "Duración_fase": "00:00.270"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:09.205",
+          "Fin_fase": "01:09.475",
+          "Duración_fase": "00:00.270"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:09.475",
+          "Fin_fase": "01:09.611",
+          "Duración_fase": "00:00.135"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:09.611",
+          "Fin_fase": "01:09.787",
+          "Duración_fase": "00:00.176"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:09.787",
+          "Fin_fase": "01:09.976",
+          "Duración_fase": "00:00.189"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:09.976",
+          "Fin_fase": "01:10.153",
+          "Duración_fase": "00:00.176"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:08.105",
+          "Fin_fase": "01:08.272",
+          "Duración_fase": "00:00.166"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:08.272",
+          "Fin_fase": "01:08.605",
+          "Duración_fase": "00:00.333"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:08.605",
+          "Fin_fase": "01:08.938",
+          "Duración_fase": "00:00.333"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:08.938",
+          "Fin_fase": "01:09.105",
+          "Duración_fase": "00:00.166"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:09.105",
+          "Fin_fase": "01:09.322",
+          "Duración_fase": "00:00.216"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:09.322",
+          "Fin_fase": "01:09.555",
+          "Duración_fase": "00:00.233"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:09.555",
+          "Fin_fase": "01:09.772",
+          "Duración_fase": "00:00.216"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 47,
+    "Inicio_zancada_CSV": "01:10.153",
+    "Duración_zancada_CSV": "00:01.216",
+    "Inicio_zancada_video": "01:09.772",
+    "Duración_zancada_video": "00:01.300",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:10.153",
+          "Fin_fase": "01:10.274",
+          "Duración_fase": "00:00.121"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:10.274",
+          "Fin_fase": "01:10.517",
+          "Duración_fase": "00:00.243"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:10.517",
+          "Fin_fase": "01:10.760",
+          "Duración_fase": "00:00.243"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:10.760",
+          "Fin_fase": "01:10.882",
+          "Duración_fase": "00:00.121"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:10.882",
+          "Fin_fase": "01:11.040",
+          "Duración_fase": "00:00.158"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:11.040",
+          "Fin_fase": "01:11.210",
+          "Duración_fase": "00:00.170"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:11.210",
+          "Fin_fase": "01:11.368",
+          "Duración_fase": "00:00.158"
+        }
+      ],
+      "Video": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:09.772",
+          "Fin_fase": "01:09.902",
+          "Duración_fase": "00:00.130"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:09.902",
+          "Fin_fase": "01:10.162",
+          "Duración_fase": "00:00.260"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:10.162",
+          "Fin_fase": "01:10.421",
+          "Duración_fase": "00:00.260"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:10.421",
+          "Fin_fase": "01:10.552",
+          "Duración_fase": "00:00.130"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:10.552",
+          "Fin_fase": "01:10.721",
+          "Duración_fase": "00:00.169"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:10.721",
+          "Fin_fase": "01:10.903",
+          "Duración_fase": "00:00.182"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:10.903",
+          "Fin_fase": "01:11.072",
+          "Duración_fase": "00:00.169"
+        }
+      ]
+    }
+  },
+  {
+    "Zancada": 48,
+    "Inicio_zancada_CSV": "01:11.369",
+    "Duración_zancada_CSV": "00:01.400",
+    "Inicio_zancada_video": "01:11.072",
+    "Duración_zancada_video": "-00:58.701",
+    "Métodos": {
+      "CSV": [
+        {
+          "Fase": "Heel strike - Loading response",
+          "Inicio_fase": "01:11.368",
+          "Fin_fase": "01:11.509",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Mid-stance",
+          "Inicio_fase": "01:11.509",
+          "Fin_fase": "01:11.789",
+          "Duración_fase": "00:00.280"
+        },
+        {
+          "Fase": "Terminal stance",
+          "Inicio_fase": "01:11.789",
+          "Fin_fase": "01:12.069",
+          "Duración_fase": "00:00.280"
+        },
+        {
+          "Fase": "Pre-swing",
+          "Inicio_fase": "01:12.069",
+          "Fin_fase": "01:12.209",
+          "Duración_fase": "00:00.140"
+        },
+        {
+          "Fase": "Toe-off",
+          "Inicio_fase": "01:12.209",
+          "Fin_fase": "01:12.391",
+          "Duración_fase": "00:00.182"
+        },
+        {
+          "Fase": "Mid-swing",
+          "Inicio_fase": "01:12.391",
+          "Fin_fase": "01:12.587",
+          "Duración_fase": "00:00.196"
+        },
+        {
+          "Fase": "Terminal swing",
+          "Inicio_fase": "01:12.587",
+          "Fin_fase": "01:12.769",
+          "Duración_fase": "00:00.182"
+        }
+      ]
+    }
+  }
+]
