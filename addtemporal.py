@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("exp_27_part_63_trial_308_sw_1_R.csv")  # Reemplaza con el nombre real de tu archivo
 
 # Frecuencia de muestreo (Hz)
-sampling_rate = 65
+sampling_rate = 64
 sampling_period = 1 / sampling_rate  # Tiempo entre muestras en segundos
 
 # Calcular tiempo como una Serie (para poder usar .apply)

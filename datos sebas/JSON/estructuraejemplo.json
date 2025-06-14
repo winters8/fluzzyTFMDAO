@@ -1,0 +1,35 @@
+{
+    "Numero_ancada":"valor",
+    "Tiempo_inicio":"valor",
+    "Tiempo_final":"valor",
+    "Tiempo_zancada":"valor",
+    "Fases":{
+        "LR":{
+            "Tiempo_inicio":"valor",
+            "Tiemop_final":"valor",
+            "Tiempo_total":"valor"
+        },
+        "MSt":{
+            "Tiempo_inicio":"valor",
+            "Tiemop_final":"valor",
+            "Tiempo_total":"valor"
+        },
+        "TSt":{
+            "Tiempo_inicio":"valor",
+            "Tiemop_final":"valor",
+            "Tiempo_total":"valor"
+        },
+        "PSw":{
+            "Tiempo_inicio":"valor",
+            "Tiemop_final":"valor",
+            "Tiempo_total":"valor"
+        },
+        "Sw":{
+            "Tiempo_inicio":"valor",
+            "Tiemop_final":"valor",
+            "Tiempo_total":"valor"
+        }
+
+    }
+
+}

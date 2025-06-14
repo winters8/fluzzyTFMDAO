@@ -1,0 +1,26 @@
+import pandas as pd
+import json
+
+# Cargar el archivo CSV
+csv_path = 'archivo_con_tiempo_formateado_L_Sebas.csv'  # Cambia esta ruta al archivo CSV
+csv_data = pd.read_csv(csv_path)
+
+# Cargar el archivo JSON
+json_path = 'gait_phases.json'  # Cambia esta ruta al archivo JSON
+with open(json_path, 'r') as file:
+    json_data = json.load(file)
+
+# Asegurarse de que estamos trabajando con la última columna del CSV (asumimos que contiene los timestamps)
+timestamps = csv_data.iloc[:, -1].tolist()
+
+# Añadir el "TimeStamp" a cada registro del JSON
+for idx, record in enumerate(json_data):
+    if idx < len(timestamps):
+        record['TimeStamp'] = timestamps[idx]
+
+# Guardar el JSON modificado en un nuevo archivo
+modified_json_path = 'git_Sebas_L_timestamp.json'  # Cambia esta ruta al archivo modificado
+with open(modified_json_path, 'w') as file:
+    json.dump(json_data, file, indent=4)
+
+print(f"Archivo modificado guardado en: {modified_json_path}")
