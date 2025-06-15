@@ -1,0 +1,201 @@
+[
+    {
+        "Numero_zancada": 1,
+        "Tiempo_inicio": "00:01.828125",
+        "Tiempo_final": "00:02.953125",
+        "Tiempo_zancada": 1.125,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:01.828125",
+                "Tiempo_final": "00:01.875000",
+                "Tiempo_total": 0.0469
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:01.890625",
+                "Tiempo_final": "00:02.171875",
+                "Tiempo_total": 0.2812
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:02.187500",
+                "Tiempo_final": "00:02.468750",
+                "Tiempo_total": 0.2812
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:02.484375",
+                "Tiempo_final": "00:02.515625",
+                "Tiempo_total": 0.0312
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:02.531250",
+                "Tiempo_final": "00:02.921875",
+                "Tiempo_total": 0.3906
+            }
+        }
+    },
+    {
+        "Numero_zancada": 2,
+        "Tiempo_inicio": "00:02.953125",
+        "Tiempo_final": "00:04.078125",
+        "Tiempo_zancada": 1.125,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:02.953125",
+                "Tiempo_final": "00:03.000000",
+                "Tiempo_total": 0.0469
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:03.015625",
+                "Tiempo_final": "00:03.140625",
+                "Tiempo_total": 0.125
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:03.156250",
+                "Tiempo_final": "00:03.578125",
+                "Tiempo_total": 0.4219
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:03.593750",
+                "Tiempo_final": "00:03.609375",
+                "Tiempo_total": 0.0156
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:03.625000",
+                "Tiempo_final": "00:04.031250",
+                "Tiempo_total": 0.4062
+            }
+        }
+    },
+    {
+        "Numero_zancada": 3,
+        "Tiempo_inicio": "00:04.078125",
+        "Tiempo_final": "00:05.187500",
+        "Tiempo_zancada": 1.1094,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:04.078125",
+                "Tiempo_final": "00:04.109375",
+                "Tiempo_total": 0.0312
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:04.125000",
+                "Tiempo_final": "00:04.218750",
+                "Tiempo_total": 0.0938
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:04.234375",
+                "Tiempo_final": "00:04.671875",
+                "Tiempo_total": 0.4375
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:04.687500",
+                "Tiempo_final": "00:04.718750",
+                "Tiempo_total": 0.0312
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:04.734375",
+                "Tiempo_final": "00:05.140625",
+                "Tiempo_total": 0.4062
+            }
+        }
+    },
+    {
+        "Numero_zancada": 6,
+        "Tiempo_inicio": "00:08.046875",
+        "Tiempo_final": "00:09.281250",
+        "Tiempo_zancada": 1.2344,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:08.046875",
+                "Tiempo_final": "00:08.265625",
+                "Tiempo_total": 0.2188
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:08.281250",
+                "Tiempo_final": "00:08.421875",
+                "Tiempo_total": 0.1406
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:08.437500",
+                "Tiempo_final": "00:08.718750",
+                "Tiempo_total": 0.2812
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:08.734375",
+                "Tiempo_final": "00:08.765625",
+                "Tiempo_total": 0.0312
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:08.781250",
+                "Tiempo_final": "00:09.234375",
+                "Tiempo_total": 0.4531
+            }
+        }
+    },
+    {
+        "Numero_zancada": 7,
+        "Tiempo_inicio": "00:09.281250",
+        "Tiempo_final": "00:10.484375",
+        "Tiempo_zancada": 1.2031,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:09.281250",
+                "Tiempo_final": "00:09.359375",
+                "Tiempo_total": 0.0781
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:09.375000",
+                "Tiempo_final": "00:09.531250",
+                "Tiempo_total": 0.1562
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:09.546875",
+                "Tiempo_final": "00:09.921875",
+                "Tiempo_total": 0.375
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:09.937500",
+                "Tiempo_final": "00:09.968750",
+                "Tiempo_total": 0.0312
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:09.984375",
+                "Tiempo_final": "00:10.437500",
+                "Tiempo_total": 0.4531
+            }
+        }
+    },
+    {
+        "Numero_zancada": 8,
+        "Tiempo_inicio": "00:10.484375",
+        "Tiempo_final": "00:11.718750",
+        "Tiempo_zancada": 1.2344,
+        "Fases": {
+            "LR": {
+                "Tiempo_inicio": "00:10.484375",
+                "Tiempo_final": "00:10.515625",
+                "Tiempo_total": 0.0312
+            },
+            "MSt": {
+                "Tiempo_inicio": "00:10.531250",
+                "Tiempo_final": "00:10.703125",
+                "Tiempo_total": 0.1719
+            },
+            "TSt": {
+                "Tiempo_inicio": "00:10.718750",
+                "Tiempo_final": "00:11.171875",
+                "Tiempo_total": 0.4531
+            },
+            "PSw": {
+                "Tiempo_inicio": "00:11.187500",
+                "Tiempo_final": "00:11.203125",
+                "Tiempo_total": 0.0156
+            },
+            "Sw": {
+                "Tiempo_inicio": "00:11.218750",
+                "Tiempo_final": "00:11.656250",
+                "Tiempo_total": 0.4375
+            }
+        }
+    }
+
+]

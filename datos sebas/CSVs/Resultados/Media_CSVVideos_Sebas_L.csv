@@ -1,0 +1,15 @@
+Método,Fase,Duración media (ms)
+CSV,LR,123.0
+CSV,MSt,246.44
+CSV,TSt,246.44
+CSV,PSw,123.0
+CSV,Sw,492.34
+CSV,Zancadas válidas,32
+
+Video,LR,126.53
+Video,MSt,253.53
+Video,TSt,253.53
+Video,PSw,126.53
+Video,Sw,506.47
+Video,Zancadas válidas,32
+

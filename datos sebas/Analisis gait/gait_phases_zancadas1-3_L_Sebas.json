@@ -1,0 +1,4356 @@
+[
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 18276,
+    "metatarsal": 71911,
+    "midPhalanges": 92760,
+    "distalPhalanges": 16338,
+    "phases": {
+      "LR": 6.64791706898239e-16,
+      "MSt": 6.64791706898239e-16,
+      "TSt": 0.9999999999999136,
+      "PSw": 8.428545675499639e-14,
+      "Sw": 6.64791706898239e-16
+    }
+  },
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 18306,
+    "metatarsal": 72037,
+    "midPhalanges": 92720,
+    "distalPhalanges": 16404,
+    "phases": {
+      "LR": 6.767705474306128e-16,
+      "MSt": 6.767705474306128e-16,
+      "TSt": 0.9999999999999191,
+      "PSw": 7.887140719571386e-14,
+      "Sw": 6.767705474306128e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18294,
+    "metatarsal": 71967,
+    "midPhalanges": 92728,
+    "distalPhalanges": 16374,
+    "phases": {
+      "LR": 6.744185467886202e-16,
+      "MSt": 6.744185467886202e-16,
+      "TSt": 0.9999999999999161,
+      "PSw": 8.182889550638719e-14,
+      "Sw": 6.744185467886202e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18312,
+    "metatarsal": 71890,
+    "midPhalanges": 92800,
+    "distalPhalanges": 16416,
+    "phases": {
+      "LR": 6.523700277667018e-16,
+      "MSt": 6.523700277667018e-16,
+      "TSt": 0.999999999999913,
+      "PSw": 8.517019264225305e-14,
+      "Sw": 6.523700277667018e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18270,
+    "metatarsal": 71834,
+    "midPhalanges": 92832,
+    "distalPhalanges": 16404,
+    "phases": {
+      "LR": 6.432921770096804e-16,
+      "MSt": 6.432921770096804e-16,
+      "TSt": 0.9999999999999103,
+      "PSw": 8.77590204657382e-14,
+      "Sw": 6.432921770096804e-16
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 18192,
+    "metatarsal": 71883,
+    "midPhalanges": 92960,
+    "distalPhalanges": 16464,
+    "phases": {
+      "LR": 6.074203657683971e-16,
+      "MSt": 6.074203657683971e-16,
+      "TSt": 0.9999999999999125,
+      "PSw": 8.564267950184538e-14,
+      "Sw": 6.074203657683971e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18180,
+    "metatarsal": 71988,
+    "midPhalanges": 92920,
+    "distalPhalanges": 16422,
+    "phases": {
+      "LR": 6.187680370316306e-16,
+      "MSt": 6.187680370316306e-16,
+      "TSt": 0.9999999999999171,
+      "PSw": 8.107973560731397e-14,
+      "Sw": 6.187680370316306e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18138,
+    "metatarsal": 72072,
+    "midPhalanges": 93168,
+    "distalPhalanges": 16470,
+    "phases": {
+      "LR": 5.527294512916402e-16,
+      "MSt": 5.527294512916402e-16,
+      "TSt": 0.9999999999999206,
+      "PSw": 7.764664249541847e-14,
+      "Sw": 5.527294512916402e-16
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 18078,
+    "metatarsal": 72107,
+    "midPhalanges": 93160,
+    "distalPhalanges": 16416,
+    "phases": {
+      "LR": 5.553228183373284e-16,
+      "MSt": 5.553228183373284e-16,
+      "TSt": 0.999999999999922,
+      "PSw": 7.631513218077856e-14,
+      "Sw": 5.553228183373284e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18054,
+    "metatarsal": 72072,
+    "midPhalanges": 93136,
+    "distalPhalanges": 16476,
+    "phases": {
+      "LR": 5.616933426611476e-16,
+      "MSt": 5.616933426611476e-16,
+      "TSt": 0.9999999999999205,
+      "PSw": 7.77581756638125e-14,
+      "Sw": 5.616933426611476e-16
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 18072,
+    "metatarsal": 72065,
+    "midPhalanges": 93088,
+    "distalPhalanges": 16500,
+    "phases": {
+      "LR": 5.739948562928024e-16,
+      "MSt": 5.739948562928024e-16,
+      "TSt": 0.9999999999999203,
+      "PSw": 7.801905316627945e-14,
+      "Sw": 5.739948562928024e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18162,
+    "metatarsal": 72170,
+    "midPhalanges": 93176,
+    "distalPhalanges": 16518,
+    "phases": {
+      "LR": 5.504898425721111e-16,
+      "MSt": 5.504898425721111e-16,
+      "TSt": 0.9999999999999246,
+      "PSw": 7.373585079373388e-14,
+      "Sw": 5.504898425721111e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18324,
+    "metatarsal": 72191,
+    "midPhalanges": 92936,
+    "distalPhalanges": 16524,
+    "phases": {
+      "LR": 6.128751109252186e-16,
+      "MSt": 6.128751109252186e-16,
+      "TSt": 0.9999999999999255,
+      "PSw": 7.274518210789233e-14,
+      "Sw": 6.128751109252186e-16
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 18648,
+    "metatarsal": 72226,
+    "midPhalanges": 92656,
+    "distalPhalanges": 16494,
+    "phases": {
+      "LR": 6.9365211837252015e-16,
+      "MSt": 6.9365211837252015e-16,
+      "TSt": 0.9999999999999268,
+      "PSw": 7.111170250977652e-14,
+      "Sw": 6.9365211837252015e-16
+    }
+  },
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 19260,
+    "metatarsal": 72408,
+    "midPhalanges": 91936,
+    "distalPhalanges": 16434,
+    "phases": {
+      "LR": 9.584731947347668e-16,
+      "MSt": 9.584731947347668e-16,
+      "TSt": 0.9999999999999328,
+      "PSw": 6.424568245624212e-14,
+      "Sw": 9.584731947347668e-16
+    }
+  },
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 20184,
+    "metatarsal": 72702,
+    "midPhalanges": 91144,
+    "distalPhalanges": 16158,
+    "phases": {
+      "LR": 1.3691516970528625e-15,
+      "MSt": 1.3691516970528625e-15,
+      "TSt": 0.9999999999999413,
+      "PSw": 5.475321220957931e-14,
+      "Sw": 1.3691516970528625e-15
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 21504,
+    "metatarsal": 73010,
+    "midPhalanges": 90104,
+    "distalPhalanges": 15828,
+    "phases": {
+      "LR": 2.194501061813246e-15,
+      "MSt": 2.194501061813246e-15,
+      "TSt": 0.999999999999947,
+      "PSw": 4.6397091091806505e-14,
+      "Sw": 2.194501061813246e-15
+    }
+  },
+  {
+    "calcaneusTalus": 570,
+    "tarsoMetatarsal": 23448,
+    "metatarsal": 73129,
+    "midPhalanges": 88200,
+    "distalPhalanges": 15648,
+    "phases": {
+      "LR": 5.23442804268518e-15,
+      "MSt": 5.23442804268518e-15,
+      "TSt": 0.9999999999999408,
+      "PSw": 4.3487506900596654e-14,
+      "Sw": 5.23442804268518e-15
+    }
+  },
+  {
+    "calcaneusTalus": 710,
+    "tarsoMetatarsal": 25974,
+    "metatarsal": 73318,
+    "midPhalanges": 85544,
+    "distalPhalanges": 15378,
+    "phases": {
+      "LR": 1.76583407119925e-14,
+      "MSt": 1.76583407119925e-14,
+      "TSt": 0.9999999999999076,
+      "PSw": 3.938582718764779e-14,
+      "Sw": 1.76583407119925e-14
+    }
+  },
+  {
+    "calcaneusTalus": 965,
+    "tarsoMetatarsal": 28902,
+    "metatarsal": 73234,
+    "midPhalanges": 82040,
+    "distalPhalanges": 14934,
+    "phases": {
+      "LR": 4.116354348776873e-14,
+      "MSt": 8.786440343583553e-14,
+      "TSt": 0.9999999999997887,
+      "PSw": 4.116354348776873e-14,
+      "Sw": 4.116354348776873e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2815,
+    "tarsoMetatarsal": 31464,
+    "metatarsal": 72576,
+    "midPhalanges": 78824,
+    "distalPhalanges": 17310,
+    "phases": {
+      "LR": 5.827040523165839e-14,
+      "MSt": 3.8434524414445085e-13,
+      "TSt": 0.9999999999994408,
+      "PSw": 5.827040523165839e-14,
+      "Sw": 5.827040523165839e-14
+    }
+  },
+  {
+    "calcaneusTalus": 1610,
+    "tarsoMetatarsal": 34020,
+    "metatarsal": 73423,
+    "midPhalanges": 75440,
+    "distalPhalanges": 17166,
+    "phases": {
+      "LR": 3.7312499511426204e-14,
+      "MSt": 1.8052407785295111e-12,
+      "TSt": 0.999999999998083,
+      "PSw": 3.7312499511426204e-14,
+      "Sw": 3.7312499511426204e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2010,
+    "tarsoMetatarsal": 36600,
+    "metatarsal": 73598,
+    "midPhalanges": 71368,
+    "distalPhalanges": 13290,
+    "phases": {
+      "LR": 3.4068205535992515e-14,
+      "MSt": 1.1655452736243e-11,
+      "TSt": 0.9999999999882423,
+      "PSw": 3.4068205535992515e-14,
+      "Sw": 3.4068205535992515e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2275,
+    "tarsoMetatarsal": 38988,
+    "metatarsal": 73654,
+    "midPhalanges": 67736,
+    "distalPhalanges": 12810,
+    "phases": {
+      "LR": 3.310140978942096e-14,
+      "MSt": 6.151574275002716e-11,
+      "TSt": 0.9999999999383851,
+      "PSw": 3.310140978942096e-14,
+      "Sw": 3.310140978942096e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2670,
+    "tarsoMetatarsal": 41148,
+    "metatarsal": 73423,
+    "midPhalanges": 64280,
+    "distalPhalanges": 12438,
+    "phases": {
+      "LR": 3.7391162107318567e-14,
+      "MSt": 2.9967246021772553e-10,
+      "TSt": 0.9999999997002156,
+      "PSw": 3.7391162107318567e-14,
+      "Sw": 3.7391162107318567e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2995,
+    "tarsoMetatarsal": 43482,
+    "metatarsal": 73675,
+    "midPhalanges": 60232,
+    "distalPhalanges": 11562,
+    "phases": {
+      "LR": 3.280605140215856e-14,
+      "MSt": 1.9145094095913172e-9,
+      "TSt": 0.9999999980853922,
+      "PSw": 3.280605140215856e-14,
+      "Sw": 3.280605140215856e-14
+    }
+  },
+  {
+    "calcaneusTalus": 3460,
+    "tarsoMetatarsal": 45960,
+    "metatarsal": 73808,
+    "midPhalanges": 55840,
+    "distalPhalanges": 10776,
+    "phases": {
+      "LR": 3.0661815308776314e-14,
+      "MSt": 1.433139466808131e-8,
+      "TSt": 0.9999999856685134,
+      "PSw": 3.0661815308776314e-14,
+      "Sw": 3.0661815308776314e-14
+    }
+  },
+  {
+    "calcaneusTalus": 4070,
+    "tarsoMetatarsal": 49236,
+    "metatarsal": 73339,
+    "midPhalanges": 50664,
+    "distalPhalanges": 9960,
+    "phases": {
+      "LR": 3.934367378798214e-14,
+      "MSt": 1.5390132702376273e-7,
+      "TSt": 0.9999998460985549,
+      "PSw": 3.934367378798214e-14,
+      "Sw": 3.934367378798214e-14
+    }
+  },
+  {
+    "calcaneusTalus": 4885,
+    "tarsoMetatarsal": 53076,
+    "metatarsal": 72842,
+    "midPhalanges": 44656,
+    "distalPhalanges": 9132,
+    "phases": {
+      "LR": 5.14793346159171e-14,
+      "MSt": 0.0000024308522287876477,
+      "TSt": 0.9999975691476167,
+      "PSw": 5.14793346159171e-14,
+      "Sw": 5.14793346159171e-14
+    }
+  },
+  {
+    "calcaneusTalus": 5690,
+    "tarsoMetatarsal": 55578,
+    "metatarsal": 72233,
+    "midPhalanges": 40224,
+    "distalPhalanges": 7800,
+    "phases": {
+      "LR": 7.190446554415963e-14,
+      "MSt": 0.00001878402506727421,
+      "TSt": 0.9999812159747171,
+      "PSw": 7.190446554415963e-14,
+      "Sw": 7.190446554415963e-14
+    }
+  },
+  {
+    "calcaneusTalus": 6145,
+    "tarsoMetatarsal": 56604,
+    "metatarsal": 72471,
+    "midPhalanges": 38664,
+    "distalPhalanges": 6330,
+    "phases": {
+      "LR": 6.43498669292005e-14,
+      "MSt": 0.00003889291893973332,
+      "TSt": 0.9999611070808672,
+      "PSw": 6.43498669292005e-14,
+      "Sw": 6.43498669292005e-14
+    }
+  },
+  {
+    "calcaneusTalus": 5600,
+    "tarsoMetatarsal": 56094,
+    "metatarsal": 72128,
+    "midPhalanges": 37856,
+    "distalPhalanges": 5898,
+    "phases": {
+      "LR": 7.57957793538315e-14,
+      "MSt": 0.00005542216205306788,
+      "TSt": 0.9999445778377195,
+      "PSw": 7.57957793538315e-14,
+      "Sw": 7.57957793538315e-14
+    }
+  },
+  {
+    "calcaneusTalus": 4300,
+    "tarsoMetatarsal": 53796,
+    "metatarsal": 72261,
+    "midPhalanges": 38240,
+    "distalPhalanges": 5754,
+    "phases": {
+      "LR": 6.929484948866531e-14,
+      "MSt": 0.00004556268469842812,
+      "TSt": 0.9999544373150937,
+      "PSw": 6.929484948866531e-14,
+      "Sw": 6.929484948866531e-14
+    }
+  },
+  {
+    "calcaneusTalus": 2295,
+    "tarsoMetatarsal": 46482,
+    "metatarsal": 72793,
+    "midPhalanges": 40504,
+    "distalPhalanges": 6840,
+    "phases": {
+      "LR": 5.1943283266025815e-14,
+      "MSt": 0.000016001111229308568,
+      "TSt": 0.999983998888615,
+      "PSw": 5.1943283266025815e-14,
+      "Sw": 5.1943283266025815e-14
+    }
+  },
+  {
+    "calcaneusTalus": 610,
+    "tarsoMetatarsal": 33120,
+    "metatarsal": 74683,
+    "midPhalanges": 46048,
+    "distalPhalanges": 6162,
+    "phases": {
+      "LR": 1.9279712781254682e-14,
+      "MSt": 0.0000012612752231719332,
+      "TSt": 0.9999987387247189,
+      "PSw": 1.9279712781254682e-14,
+      "Sw": 1.9279712781254682e-14
+    }
+  },
+  {
+    "calcaneusTalus": 550,
+    "tarsoMetatarsal": 14088,
+    "metatarsal": 72107,
+    "midPhalanges": 59832,
+    "distalPhalanges": 6168,
+    "phases": {
+      "LR": 9.882277308658911e-14,
+      "MSt": 3.0490005602824343e-9,
+      "TSt": 0.999999996950703,
+      "PSw": 9.882277308658911e-14,
+      "Sw": 9.882277308658911e-14
+    }
+  },
+  {
+    "calcaneusTalus": 570,
+    "tarsoMetatarsal": 4686,
+    "metatarsal": 63931,
+    "midPhalanges": 69728,
+    "distalPhalanges": 7206,
+    "phases": {
+      "LR": 5.587051466292423e-10,
+      "MSt": 2.5736860104928994e-9,
+      "TSt": 0.9999999957501986,
+      "PSw": 5.587051466292423e-10,
+      "Sw": 5.587051466292423e-10
+    }
+  },
+  {
+    "calcaneusTalus": 610,
+    "tarsoMetatarsal": 4002,
+    "metatarsal": 49721,
+    "midPhalanges": 70040,
+    "distalPhalanges": 8142,
+    "phases": {
+      "LR": 3.3763314477626354e-9,
+      "MSt": 3.3763314477626354e-9,
+      "TSt": 0.9999985560878522,
+      "PSw": 0.0000014337831534998948,
+      "Sw": 3.3763314477626354e-9
+    }
+  },
+  {
+    "calcaneusTalus": 650,
+    "tarsoMetatarsal": 3936,
+    "metatarsal": 33852,
+    "midPhalanges": 60360,
+    "distalPhalanges": 7542,
+    "phases": {
+      "LR": 2.9384632629547687e-7,
+      "MSt": 2.9384632629547687e-7,
+      "TSt": 0.9940061512185265,
+      "PSw": 0.005992967242494543,
+      "Sw": 2.9384632629547687e-7
+    }
+  },
+  {
+    "calcaneusTalus": 680,
+    "tarsoMetatarsal": 4044,
+    "metatarsal": 23618,
+    "midPhalanges": 48112,
+    "distalPhalanges": 7398,
+    "phases": {
+      "LR": 0.00003451801374410616,
+      "MSt": 0.00003451801374410616,
+      "TSt": 0.45732069371802153,
+      "PSw": 0.5425757522407462,
+      "Sw": 0.00003451801374410616
+    }
+  },
+  {
+    "calcaneusTalus": 730,
+    "tarsoMetatarsal": 5382,
+    "metatarsal": 15435,
+    "midPhalanges": 28160,
+    "distalPhalanges": 5982,
+    "phases": {
+      "LR": 0.02253646630206236,
+      "MSt": 0.02253646630206236,
+      "TSt": 0.3480407339261614,
+      "PSw": 0.4987954352914873,
+      "Sw": 0.1080908981782265
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 5976,
+    "metatarsal": 9751,
+    "midPhalanges": 19592,
+    "distalPhalanges": 2946,
+    "phases": {
+      "LR": 0.0044800301292446075,
+      "MSt": 0.0044800301292446075,
+      "TSt": 0.09772191644633837,
+      "PSw": 0.01564256426048556,
+      "Sw": 0.8776754590346868
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 5964,
+    "metatarsal": 7903,
+    "midPhalanges": 17048,
+    "distalPhalanges": 1998,
+    "phases": {
+      "LR": 0.0021261434474155482,
+      "MSt": 0.0021261434474155482,
+      "TSt": 0.04604557583591711,
+      "PSw": 0.004167787575571176,
+      "Sw": 0.9455343496936807
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 5664,
+    "metatarsal": 7511,
+    "midPhalanges": 17168,
+    "distalPhalanges": 2298,
+    "phases": {
+      "LR": 0.002206741723222239,
+      "MSt": 0.002206741723222239,
+      "TSt": 0.03993093865891218,
+      "PSw": 0.005193288806245136,
+      "Sw": 0.9504622890883982
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 5064,
+    "metatarsal": 7791,
+    "midPhalanges": 17856,
+    "distalPhalanges": 1854,
+    "phases": {
+      "LR": 0.0027127536811548374,
+      "MSt": 0.0027127536811548374,
+      "TSt": 0.03408800632696466,
+      "PSw": 0.004853138352140118,
+      "Sw": 0.9556333479585856
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 4626,
+    "metatarsal": 8120,
+    "midPhalanges": 17528,
+    "distalPhalanges": 1266,
+    "phases": {
+      "LR": 0.0024844225868588202,
+      "MSt": 0.0024844225868588202,
+      "TSt": 0.024049350801483575,
+      "PSw": 0.003117100904854289,
+      "Sw": 0.9678647031199445
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 3792,
+    "metatarsal": 8673,
+    "midPhalanges": 17408,
+    "distalPhalanges": 1086,
+    "phases": {
+      "LR": 0.0024267052705777784,
+      "MSt": 0.0024267052705777784,
+      "TSt": 0.014170112368357612,
+      "PSw": 0.0027281725844279445,
+      "Sw": 0.9782483045060589
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 3276,
+    "metatarsal": 8988,
+    "midPhalanges": 17616,
+    "distalPhalanges": 1086,
+    "phases": {
+      "LR": 0.002592383281581381,
+      "MSt": 0.002592383281581381,
+      "TSt": 0.011023245779475156,
+      "PSw": 0.0029037867326964215,
+      "Sw": 0.9808882009246657
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 2670,
+    "metatarsal": 9086,
+    "midPhalanges": 16952,
+    "distalPhalanges": 1074,
+    "phases": {
+      "LR": 0.002172032499796073,
+      "MSt": 0.002172032499796073,
+      "TSt": 0.006387788340495624,
+      "PSw": 0.0024152026589826757,
+      "Sw": 0.9868529440009296
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 2268,
+    "metatarsal": 9093,
+    "midPhalanges": 17088,
+    "distalPhalanges": 1152,
+    "phases": {
+      "LR": 0.002244591667818594,
+      "MSt": 0.002244591667818594,
+      "TSt": 0.00518670913333436,
+      "PSw": 0.0026270724727979035,
+      "Sw": 0.9876970350582306
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 2346,
+    "metatarsal": 8533,
+    "midPhalanges": 15160,
+    "distalPhalanges": 1236,
+    "phases": {
+      "LR": 0.001492043248399271,
+      "MSt": 0.001492043248399271,
+      "TSt": 0.0036023065777537264,
+      "PSw": 0.0018313561928932104,
+      "Sw": 0.9915822507325546
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 2028,
+    "metatarsal": 8218,
+    "midPhalanges": 14936,
+    "distalPhalanges": 1254,
+    "phases": {
+      "LR": 0.0014404040505963038,
+      "MSt": 0.0014404040505963038,
+      "TSt": 0.0028651485875206256,
+      "PSw": 0.0017874856852382124,
+      "Sw": 0.9924665576260485
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1824,
+    "metatarsal": 7805,
+    "midPhalanges": 15256,
+    "distalPhalanges": 1302,
+    "phases": {
+      "LR": 0.0015176284985851916,
+      "MSt": 0.0015176284985851916,
+      "TSt": 0.002665858965113978,
+      "PSw": 0.0019392551324950093,
+      "Sw": 0.9923596289052207
+    }
+  },
+  {
+    "calcaneusTalus": 740,
+    "tarsoMetatarsal": 1944,
+    "metatarsal": 7777,
+    "midPhalanges": 15920,
+    "distalPhalanges": 1356,
+    "phases": {
+      "LR": 0.0017046127120038611,
+      "MSt": 0.0017046127120038611,
+      "TSt": 0.003245166425987328,
+      "PSw": 0.0022676363310416173,
+      "Sw": 0.9910779718189633
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 1830,
+    "metatarsal": 7574,
+    "midPhalanges": 15752,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 0.001655518814852152,
+      "MSt": 0.001655518814852152,
+      "TSt": 0.0029294309265973065,
+      "PSw": 0.0018748526829126678,
+      "Sw": 0.9918846787607857
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1848,
+    "metatarsal": 7651,
+    "midPhalanges": 16376,
+    "distalPhalanges": 1092,
+    "phases": {
+      "LR": 0.0019017693052204637,
+      "MSt": 0.0019017693052204637,
+      "TSt": 0.0033774796770776995,
+      "PSw": 0.0021302136093346268,
+      "Sw": 0.9906887681031468
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 2010,
+    "metatarsal": 7539,
+    "midPhalanges": 16808,
+    "distalPhalanges": 1092,
+    "phases": {
+      "LR": 0.0020912978883074495,
+      "MSt": 0.0020912978883074495,
+      "TSt": 0.0041295676683998596,
+      "PSw": 0.002359716446366984,
+      "Sw": 0.9893281201086183
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1914,
+    "metatarsal": 7826,
+    "midPhalanges": 16720,
+    "distalPhalanges": 1086,
+    "phases": {
+      "LR": 0.002054403936919247,
+      "MSt": 0.002054403936919247,
+      "TSt": 0.0038122258894466923,
+      "PSw": 0.002301183986955184,
+      "Sw": 0.9897777822497597
+    }
+  },
+  {
+    "calcaneusTalus": 740,
+    "tarsoMetatarsal": 2040,
+    "metatarsal": 7826,
+    "midPhalanges": 16712,
+    "distalPhalanges": 1086,
+    "phases": {
+      "LR": 0.002034888565651296,
+      "MSt": 0.002034888565651296,
+      "TSt": 0.004107311316761629,
+      "PSw": 0.002296068001984735,
+      "Sw": 0.989526843549951
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 2124,
+    "metatarsal": 7826,
+    "midPhalanges": 16592,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 0.0019909768995872755,
+      "MSt": 0.0019909768995872755,
+      "TSt": 0.004198868614572944,
+      "PSw": 0.0022465182268709134,
+      "Sw": 0.9895726593593815
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 2226,
+    "metatarsal": 7630,
+    "midPhalanges": 16056,
+    "distalPhalanges": 1104,
+    "phases": {
+      "LR": 0.0017654935258341064,
+      "MSt": 0.0017654935258341064,
+      "TSt": 0.003962049048527128,
+      "PSw": 0.0019993966296860967,
+      "Sw": 0.9905075672701186
+    }
+  },
+  {
+    "calcaneusTalus": 760,
+    "tarsoMetatarsal": 2130,
+    "metatarsal": 7819,
+    "midPhalanges": 15992,
+    "distalPhalanges": 1092,
+    "phases": {
+      "LR": 0.0017552768011028718,
+      "MSt": 0.0017552768011028718,
+      "TSt": 0.003688252915729755,
+      "PSw": 0.0019589422953864974,
+      "Sw": 0.990842251186678
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 2022,
+    "metatarsal": 8351,
+    "midPhalanges": 16152,
+    "distalPhalanges": 1092,
+    "phases": {
+      "LR": 0.0017961855544200759,
+      "MSt": 0.0017961855544200759,
+      "TSt": 0.003572856045092775,
+      "PSw": 0.0020267263775234764,
+      "Sw": 0.9908080464685436
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 2058,
+    "metatarsal": 8358,
+    "midPhalanges": 15832,
+    "distalPhalanges": 1080,
+    "phases": {
+      "LR": 0.0016933700718571394,
+      "MSt": 0.0016933700718571394,
+      "TSt": 0.0034179383607175614,
+      "PSw": 0.0018829507809982862,
+      "Sw": 0.9913123707145699
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1974,
+    "metatarsal": 8057,
+    "midPhalanges": 15808,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 0.0016855928863675383,
+      "MSt": 0.0016855928863675383,
+      "TSt": 0.0032324783471648208,
+      "PSw": 0.0018949908548150781,
+      "Sw": 0.991501345025285
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 2040,
+    "metatarsal": 7196,
+    "midPhalanges": 15192,
+    "distalPhalanges": 1092,
+    "phases": {
+      "LR": 0.0014956786393598902,
+      "MSt": 0.0014956786393598902,
+      "TSt": 0.0030079178693912015,
+      "PSw": 0.0016876493317906796,
+      "Sw": 0.9923130755200983
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 4854,
+    "metatarsal": 6580,
+    "midPhalanges": 13112,
+    "distalPhalanges": 1086,
+    "phases": {
+      "LR": 0.0011566109004795546,
+      "MSt": 0.0011566109004795546,
+      "TSt": 0.012756732451706524,
+      "PSw": 0.001290813470368568,
+      "Sw": 0.9836392322769658
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 13248,
+    "metatarsal": 5194,
+    "midPhalanges": 11232,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 0.0025981150598835606,
+      "MSt": 0.0025981150598835606,
+      "TSt": 0.022553677545362315,
+      "PSw": 0.0029315823999495768,
+      "Sw": 0.969318509934921
+    }
+  },
+  {
+    "calcaneusTalus": 4460,
+    "tarsoMetatarsal": 23082,
+    "metatarsal": 4746,
+    "midPhalanges": 11048,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 0.4780884472844033,
+      "MSt": 0.22001974823980894,
+      "TSt": 0.22001974823980894,
+      "PSw": 0.036091442540733,
+      "Sw": 0.04578061369524582
+    }
+  },
+  {
+    "calcaneusTalus": 21360,
+    "tarsoMetatarsal": 33930,
+    "metatarsal": 5103,
+    "midPhalanges": 10592,
+    "distalPhalanges": 990,
+    "phases": {
+      "LR": 0.9912775907168352,
+      "MSt": 0.008411685378995776,
+      "TSt": 0.00030685154271216223,
+      "PSw": 0.0000019361807284925223,
+      "Sw": 0.0000019361807284925223
+    }
+  },
+  {
+    "calcaneusTalus": 34180,
+    "tarsoMetatarsal": 48702,
+    "metatarsal": 5523,
+    "midPhalanges": 7536,
+    "distalPhalanges": 948,
+    "phases": {
+      "LR": 0.9900728939401444,
+      "MSt": 0.009927081319323952,
+      "TSt": 2.4295176208628748e-8,
+      "PSw": 2.2267769927416482e-10,
+      "Sw": 2.2267769927416482e-10
+    }
+  },
+  {
+    "calcaneusTalus": 37135,
+    "tarsoMetatarsal": 60330,
+    "metatarsal": 9177,
+    "midPhalanges": 5440,
+    "distalPhalanges": 882,
+    "phases": {
+      "LR": 0.9368968294372696,
+      "MSt": 0.06310316779433046,
+      "TSt": 2.7680348452602583e-9,
+      "PSw": 1.8259572583676284e-13,
+      "Sw": 1.8259572583676284e-13
+    }
+  },
+  {
+    "calcaneusTalus": 36695,
+    "tarsoMetatarsal": 66018,
+    "metatarsal": 12502,
+    "midPhalanges": 5848,
+    "distalPhalanges": 846,
+    "phases": {
+      "LR": 0.722696232060943,
+      "MSt": 0.277303764118161,
+      "TSt": 3.8208845236968844e-9,
+      "PSw": 5.6674942399012884e-15,
+      "Sw": 5.6674942399012884e-15
+    }
+  },
+  {
+    "calcaneusTalus": 35620,
+    "tarsoMetatarsal": 67830,
+    "metatarsal": 17997,
+    "midPhalanges": 6600,
+    "distalPhalanges": 834,
+    "phases": {
+      "LR": 0.1281313997097003,
+      "MSt": 0.8718685918920095,
+      "TSt": 8.398286734867412e-9,
+      "PSw": 1.874833726435961e-15,
+      "Sw": 1.874833726435961e-15
+    }
+  },
+  {
+    "calcaneusTalus": 34560,
+    "tarsoMetatarsal": 69102,
+    "metatarsal": 24584,
+    "midPhalanges": 7632,
+    "distalPhalanges": 822,
+    "phases": {
+      "LR": 0.004720604928080416,
+      "MSt": 0.9952793765694509,
+      "TSt": 1.8502466878480527e-8,
+      "PSw": 8.739630125730714e-16,
+      "Sw": 8.739630125730714e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34460,
+    "tarsoMetatarsal": 69696,
+    "metatarsal": 30254,
+    "midPhalanges": 8040,
+    "distalPhalanges": 822,
+    "phases": {
+      "LR": 0.0002459777476695034,
+      "MSt": 0.9997540021804922,
+      "TSt": 2.0071837270791623e-8,
+      "PSw": 6.131160631550861e-16,
+      "Sw": 6.131160631550861e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34385,
+    "tarsoMetatarsal": 70422,
+    "metatarsal": 34363,
+    "midPhalanges": 7992,
+    "distalPhalanges": 822,
+    "phases": {
+      "LR": 0.000028646201909538056,
+      "MSt": 0.9999713325978402,
+      "TSt": 2.1200249706975452e-8,
+      "PSw": 3.9349997949303044e-16,
+      "Sw": 3.9349997949303044e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34525,
+    "tarsoMetatarsal": 70944,
+    "metatarsal": 36582,
+    "midPhalanges": 8168,
+    "distalPhalanges": 810,
+    "phases": {
+      "LR": 0.000008985846885028157,
+      "MSt": 0.9999909949853167,
+      "TSt": 1.916779760371075e-8,
+      "PSw": 2.8662722392931276e-16,
+      "Sw": 2.8662722392931276e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34775,
+    "tarsoMetatarsal": 71250,
+    "metatarsal": 38584,
+    "midPhalanges": 8136,
+    "distalPhalanges": 822,
+    "phases": {
+      "LR": 0.000003150976079258533,
+      "MSt": 0.9999968330691744,
+      "TSt": 1.5954745831356493e-8,
+      "PSw": 2.3770826864722655e-16,
+      "Sw": 2.3770826864722655e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34685,
+    "tarsoMetatarsal": 71466,
+    "metatarsal": 41083,
+    "midPhalanges": 8240,
+    "distalPhalanges": 834,
+    "phases": {
+      "LR": 8.530968357862377e-7,
+      "MSt": 0.9999991298423204,
+      "TSt": 1.7060843246685325e-8,
+      "PSw": 2.085693506502309e-16,
+      "Sw": 2.085693506502309e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34595,
+    "tarsoMetatarsal": 71616,
+    "metatarsal": 42672,
+    "midPhalanges": 8512,
+    "distalPhalanges": 984,
+    "phases": {
+      "LR": 3.725919057837424e-7,
+      "MSt": 0.9999996091276458,
+      "TSt": 1.8280447839112477e-8,
+      "PSw": 1.9091122740809105e-16,
+      "Sw": 1.9091122740809105e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34705,
+    "tarsoMetatarsal": 71706,
+    "metatarsal": 44415,
+    "midPhalanges": 8920,
+    "distalPhalanges": 990,
+    "phases": {
+      "LR": 1.5048011167195652e-7,
+      "MSt": 0.9999998325628854,
+      "TSt": 1.695700246382682e-8,
+      "PSw": 1.8168935260786173e-16,
+      "Sw": 1.8168935260786173e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34310,
+    "tarsoMetatarsal": 71544,
+    "metatarsal": 45717,
+    "midPhalanges": 9312,
+    "distalPhalanges": 1104,
+    "phases": {
+      "LR": 7.66114274377993e-8,
+      "MSt": 0.9999999005992503,
+      "TSt": 2.2789321892623956e-8,
+      "PSw": 2.018315432082237e-16,
+      "Sw": 2.018315432082237e-16
+    }
+  },
+  {
+    "calcaneusTalus": 33835,
+    "tarsoMetatarsal": 71496,
+    "metatarsal": 46837,
+    "midPhalanges": 9920,
+    "distalPhalanges": 1098,
+    "phases": {
+      "LR": 4.3152223768104045e-8,
+      "MSt": 0.9999999241814197,
+      "TSt": 3.2666356123795636e-8,
+      "PSw": 2.1035691656908927e-16,
+      "Sw": 2.1035691656908927e-16
+    }
+  },
+  {
+    "calcaneusTalus": 33430,
+    "tarsoMetatarsal": 71238,
+    "metatarsal": 47908,
+    "midPhalanges": 10624,
+    "distalPhalanges": 1044,
+    "phases": {
+      "LR": 2.5100732083244275e-8,
+      "MSt": 0.9999999301241946,
+      "TSt": 4.477507275159517e-8,
+      "PSw": 2.508656285843335e-16,
+      "Sw": 2.508656285843335e-16
+    }
+  },
+  {
+    "calcaneusTalus": 32980,
+    "tarsoMetatarsal": 70902,
+    "metatarsal": 48741,
+    "midPhalanges": 11520,
+    "distalPhalanges": 1302,
+    "phases": {
+      "LR": 1.6782922956150197e-8,
+      "MSt": 0.999999918844727,
+      "TSt": 6.43723491639209e-8,
+      "PSw": 3.1843168130297967e-16,
+      "Sw": 3.1843168130297967e-16
+    }
+  },
+  {
+    "calcaneusTalus": 32640,
+    "tarsoMetatarsal": 70434,
+    "metatarsal": 50148,
+    "midPhalanges": 11928,
+    "distalPhalanges": 1170,
+    "phases": {
+      "LR": 8.198307102605513e-9,
+      "MSt": 0.9999999075677507,
+      "TSt": 8.423394139273459e-8,
+      "PSw": 4.322273694734546e-16,
+      "Sw": 4.322273694734546e-16
+    }
+  },
+  {
+    "calcaneusTalus": 31800,
+    "tarsoMetatarsal": 69846,
+    "metatarsal": 51793,
+    "midPhalanges": 13128,
+    "distalPhalanges": 1434,
+    "phases": {
+      "LR": 3.7589081850243066e-9,
+      "MSt": 0.9999998272257962,
+      "TSt": 1.6901529434891422e-7,
+      "PSw": 6.711098540341662e-16,
+      "Sw": 6.711098540341662e-16
+    }
+  },
+  {
+    "calcaneusTalus": 30395,
+    "tarsoMetatarsal": 68868,
+    "metatarsal": 53837,
+    "midPhalanges": 15080,
+    "distalPhalanges": 1944,
+    "phases": {
+      "LR": 1.6327765323405544e-9,
+      "MSt": 0.9999993994978591,
+      "TSt": 5.988693612364538e-7,
+      "PSw": 1.5434152364317342e-15,
+      "Sw": 1.5434152364317342e-15
+    }
+  },
+  {
+    "calcaneusTalus": 28590,
+    "tarsoMetatarsal": 67602,
+    "metatarsal": 55979,
+    "midPhalanges": 17936,
+    "distalPhalanges": 2496,
+    "phases": {
+      "LR": 1.0426297348122944e-9,
+      "MSt": 0.9999955973282071,
+      "TSt": 0.000004401629150027,
+      "PSw": 6.548491338365332e-15,
+      "Sw": 6.548491338365332e-15
+    }
+  },
+  {
+    "calcaneusTalus": 26380,
+    "tarsoMetatarsal": 66036,
+    "metatarsal": 57750,
+    "midPhalanges": 21552,
+    "distalPhalanges": 3450,
+    "phases": {
+      "LR": 1.585750632509468e-9,
+      "MSt": 0.9999146221449614,
+      "TSt": 0.00008537626915699829,
+      "PSw": 6.545287010490338e-14,
+      "Sw": 6.545287010490338e-14
+    }
+  },
+  {
+    "calcaneusTalus": 23355,
+    "tarsoMetatarsal": 63942,
+    "metatarsal": 59374,
+    "midPhalanges": 26760,
+    "distalPhalanges": 4734,
+    "phases": {
+      "LR": 6.7341953861159376e-9,
+      "MSt": 0.992221772041499,
+      "TSt": 0.007778221219636235,
+      "PSw": 2.334786955146721e-12,
+      "Sw": 2.334786955146721e-12
+    }
+  },
+  {
+    "calcaneusTalus": 18525,
+    "tarsoMetatarsal": 61140,
+    "metatarsal": 61075,
+    "midPhalanges": 34848,
+    "distalPhalanges": 6762,
+    "phases": {
+      "LR": 9.47816914602567e-9,
+      "MSt": 0.08451516843588923,
+      "TSt": 0.9154848219973892,
+      "PSw": 4.427614667516613e-11,
+      "Sw": 4.427614667516613e-11
+    }
+  },
+  {
+    "calcaneusTalus": 13920,
+    "tarsoMetatarsal": 56826,
+    "metatarsal": 62615,
+    "midPhalanges": 44800,
+    "distalPhalanges": 8478,
+    "phases": {
+      "LR": 1.687472937703715e-10,
+      "MSt": 0.00003536196317799831,
+      "TSt": 0.9999646378189283,
+      "PSw": 2.457334615676802e-11,
+      "Sw": 2.457334615676802e-11
+    }
+  },
+  {
+    "calcaneusTalus": 9725,
+    "tarsoMetatarsal": 50988,
+    "metatarsal": 63966,
+    "midPhalanges": 55408,
+    "distalPhalanges": 10386,
+    "phases": {
+      "LR": 8.858969030380982e-12,
+      "MSt": 2.9260521015138156e-8,
+      "TSt": 0.9999999707129023,
+      "PSw": 8.858969030380982e-12,
+      "Sw": 8.858969030380982e-12
+    }
+  },
+  {
+    "calcaneusTalus": 5655,
+    "tarsoMetatarsal": 42198,
+    "metatarsal": 66430,
+    "midPhalanges": 67440,
+    "distalPhalanges": 12600,
+    "phases": {
+      "LR": 1.496842671544329e-12,
+      "MSt": 7.268549796101318e-11,
+      "TSt": 0.9999999999228238,
+      "PSw": 1.496842671544329e-12,
+      "Sw": 1.496842671544329e-12
+    }
+  },
+  {
+    "calcaneusTalus": 2090,
+    "tarsoMetatarsal": 28908,
+    "metatarsal": 69825,
+    "midPhalanges": 83328,
+    "distalPhalanges": 16032,
+    "phases": {
+      "LR": 4.878798729764411e-14,
+      "MSt": 4.878798729764411e-14,
+      "TSt": 0.9999999999996082,
+      "PSw": 2.4539489664849754e-13,
+      "Sw": 4.878798729764411e-14
+    }
+  },
+  {
+    "calcaneusTalus": 675,
+    "tarsoMetatarsal": 17268,
+    "metatarsal": 71806,
+    "midPhalanges": 98288,
+    "distalPhalanges": 18594,
+    "phases": {
+      "LR": 5.4027750134634266e-17,
+      "MSt": 5.4027750134634266e-17,
+      "TSt": 0.999999999999909,
+      "PSw": 9.095036840049772e-14,
+      "Sw": 5.4027750134634266e-17
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 9192,
+    "metatarsal": 72212,
+    "midPhalanges": 108160,
+    "distalPhalanges": 21498,
+    "phases": {
+      "LR": 4.271308307169523e-18,
+      "MSt": 4.271308307169523e-18,
+      "TSt": 0.999999999999466,
+      "PSw": 5.340175121518483e-13,
+      "Sw": 4.271308307169523e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 4944,
+    "metatarsal": 70014,
+    "midPhalanges": 113608,
+    "distalPhalanges": 25002,
+    "phases": {
+      "LR": 4.1418909781410026e-18,
+      "MSt": 4.1418909781410026e-18,
+      "TSt": 0.9999999999801819,
+      "PSw": 1.9818072314255842e-11,
+      "Sw": 4.1418909781410026e-18
+    }
+  },
+  {
+    "calcaneusTalus": 470,
+    "tarsoMetatarsal": 2796,
+    "metatarsal": 67032,
+    "midPhalanges": 115288,
+    "distalPhalanges": 27426,
+    "phases": {
+      "LR": 7.064415213017466e-18,
+      "MSt": 7.064415213017466e-18,
+      "TSt": 0.9999999996527024,
+      "PSw": 3.4729771936525914e-10,
+      "Sw": 7.064415213017466e-18
+    }
+  },
+  {
+    "calcaneusTalus": 540,
+    "tarsoMetatarsal": 1662,
+    "metatarsal": 73094,
+    "midPhalanges": 116448,
+    "distalPhalanges": 21966,
+    "phases": {
+      "LR": 8.287288275353913e-18,
+      "MSt": 8.287288275353913e-18,
+      "TSt": 0.999999999970956,
+      "PSw": 2.90439244227245e-11,
+      "Sw": 8.287288275353913e-18
+    }
+  },
+  {
+    "calcaneusTalus": 530,
+    "tarsoMetatarsal": 810,
+    "metatarsal": 49644,
+    "midPhalanges": 117448,
+    "distalPhalanges": 23940,
+    "phases": {
+      "LR": 8.814212324449556e-18,
+      "MSt": 8.814212324449556e-18,
+      "TSt": 0.9999895784150764,
+      "PSw": 0.000010421584923563612,
+      "Sw": 8.814212324449556e-18
+    }
+  },
+  {
+    "calcaneusTalus": 470,
+    "tarsoMetatarsal": 732,
+    "metatarsal": 48006,
+    "midPhalanges": 117296,
+    "distalPhalanges": 42174,
+    "phases": {
+      "LR": 9.909799387193415e-18,
+      "MSt": 9.909799387193415e-18,
+      "TSt": 0.999974246164884,
+      "PSw": 0.000025753835116068125,
+      "Sw": 9.909799387193415e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 696,
+    "metatarsal": 45591,
+    "midPhalanges": 117104,
+    "distalPhalanges": 47088,
+    "phases": {
+      "LR": 1.1059922989022931e-17,
+      "MSt": 1.1059922989022931e-17,
+      "TSt": 0.9999068499531228,
+      "PSw": 0.00009315004687709548,
+      "Sw": 1.1059922989022931e-17
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 702,
+    "metatarsal": 42637,
+    "midPhalanges": 116256,
+    "distalPhalanges": 49008,
+    "phases": {
+      "LR": 1.6242061978407537e-17,
+      "MSt": 1.6242061978407537e-17,
+      "TSt": 0.9995647168539223,
+      "PSw": 0.0004352831460776235,
+      "Sw": 1.6242061978407537e-17
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 702,
+    "metatarsal": 40775,
+    "midPhalanges": 115376,
+    "distalPhalanges": 50796,
+    "phases": {
+      "LR": 2.42839823706462e-17,
+      "MSt": 2.42839823706462e-17,
+      "TSt": 0.9988475592455031,
+      "PSw": 0.0011524407544970265,
+      "Sw": 2.42839823706462e-17
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 714,
+    "metatarsal": 37457,
+    "midPhalanges": 113208,
+    "distalPhalanges": 53028,
+    "phases": {
+      "LR": 6.470537150798519e-17,
+      "MSt": 6.470537150798519e-17,
+      "TSt": 0.9935408708389424,
+      "PSw": 0.006459129161057348,
+      "Sw": 6.470537150798519e-17
+    }
+  },
+  {
+    "calcaneusTalus": 505,
+    "tarsoMetatarsal": 720,
+    "metatarsal": 36505,
+    "midPhalanges": 111232,
+    "distalPhalanges": 53004,
+    "phases": {
+      "LR": 1.586694253116277e-16,
+      "MSt": 1.586694253116277e-16,
+      "TSt": 0.9894526331384743,
+      "PSw": 0.010547366861525187,
+      "Sw": 1.586694253116277e-16
+    }
+  },
+  {
+    "calcaneusTalus": 580,
+    "tarsoMetatarsal": 744,
+    "metatarsal": 35595,
+    "midPhalanges": 106008,
+    "distalPhalanges": 35952,
+    "phases": {
+      "LR": 1.6992763438998855e-15,
+      "MSt": 1.6992763438998855e-15,
+      "TSt": 0.9833692306040329,
+      "PSw": 0.01663076939596196,
+      "Sw": 1.6992763438998855e-15
+    }
+  },
+  {
+    "calcaneusTalus": 605,
+    "tarsoMetatarsal": 834,
+    "metatarsal": 31507,
+    "midPhalanges": 90384,
+    "distalPhalanges": 35814,
+    "phases": {
+      "LR": 1.8417341945706042e-12,
+      "MSt": 1.8417341945706042e-12,
+      "TSt": 0.8803282364826982,
+      "PSw": 0.11967176351177664,
+      "Sw": 1.8417341945706042e-12
+    }
+  },
+  {
+    "calcaneusTalus": 640,
+    "tarsoMetatarsal": 870,
+    "metatarsal": 24318,
+    "midPhalanges": 72816,
+    "distalPhalanges": 45978,
+    "phases": {
+      "LR": 9.525717038111163e-10,
+      "MSt": 9.525717038111163e-10,
+      "TSt": 0.14941895522154133,
+      "PSw": 0.8505810419207436,
+      "Sw": 9.525717038111163e-10
+    }
+  },
+  {
+    "calcaneusTalus": 870,
+    "tarsoMetatarsal": 1170,
+    "metatarsal": 17542,
+    "midPhalanges": 46856,
+    "distalPhalanges": 26346,
+    "phases": {
+      "LR": 0.000005499158833299146,
+      "MSt": 0.000005499158833299146,
+      "TSt": 0.007129276370585935,
+      "PSw": 0.9928542261529143,
+      "Sw": 0.000005499158833299146
+    }
+  },
+  {
+    "calcaneusTalus": 915,
+    "tarsoMetatarsal": 1128,
+    "metatarsal": 8050,
+    "midPhalanges": 22248,
+    "distalPhalanges": 14814,
+    "phases": {
+      "LR": 0.0012120986569227096,
+      "MSt": 0.0012120986569227096,
+      "TSt": 0.0012344781616592583,
+      "PSw": 0.924790221086323,
+      "Sw": 0.07155110343817232
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 2022,
+    "metatarsal": 2989,
+    "midPhalanges": 11952,
+    "distalPhalanges": 9768,
+    "phases": {
+      "LR": 0.0010112050610731527,
+      "MSt": 0.0010112050610731527,
+      "TSt": 0.0020114236563104396,
+      "PSw": 0.12336460942403958,
+      "Sw": 0.8726015567975036
+    }
+  },
+  {
+    "calcaneusTalus": 730,
+    "tarsoMetatarsal": 1782,
+    "metatarsal": 3157,
+    "midPhalanges": 11232,
+    "distalPhalanges": 7446,
+    "phases": {
+      "LR": 0.0009759131269551514,
+      "MSt": 0.0009759131269551514,
+      "TSt": 0.0016955977390719682,
+      "PSw": 0.05125146227585612,
+      "Sw": 0.9451011137311616
+    }
+  },
+  {
+    "calcaneusTalus": 805,
+    "tarsoMetatarsal": 1512,
+    "metatarsal": 2961,
+    "midPhalanges": 11264,
+    "distalPhalanges": 7506,
+    "phases": {
+      "LR": 0.0010305043905041158,
+      "MSt": 0.0010305043905041158,
+      "TSt": 0.0014376179780112212,
+      "PSw": 0.05304104182245019,
+      "Sw": 0.9434603314185304
+    }
+  },
+  {
+    "calcaneusTalus": 790,
+    "tarsoMetatarsal": 1752,
+    "metatarsal": 3108,
+    "midPhalanges": 11288,
+    "distalPhalanges": 5976,
+    "phases": {
+      "LR": 0.001053206123692659,
+      "MSt": 0.001053206123692659,
+      "TSt": 0.00171954043161691,
+      "PSw": 0.022229049735573585,
+      "Sw": 0.9739449975854242
+    }
+  },
+  {
+    "calcaneusTalus": 790,
+    "tarsoMetatarsal": 1704,
+    "metatarsal": 3143,
+    "midPhalanges": 11360,
+    "distalPhalanges": 4266,
+    "phases": {
+      "LR": 0.0010716684850044637,
+      "MSt": 0.0010716684850044637,
+      "TSt": 0.0016992335743327871,
+      "PSw": 0.008071927893124364,
+      "Sw": 0.9880855015625339
+    }
+  },
+  {
+    "calcaneusTalus": 765,
+    "tarsoMetatarsal": 1662,
+    "metatarsal": 3290,
+    "midPhalanges": 10544,
+    "distalPhalanges": 3546,
+    "phases": {
+      "LR": 0.0010255815223231793,
+      "MSt": 0.0010255815223231793,
+      "TSt": 0.0016143235331658964,
+      "PSw": 0.0050825651272769275,
+      "Sw": 0.9912519482949108
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1548,
+    "metatarsal": 3556,
+    "midPhalanges": 10816,
+    "distalPhalanges": 3174,
+    "phases": {
+      "LR": 0.0010242006552592792,
+      "MSt": 0.0010242006552592792,
+      "TSt": 0.0015205201128683842,
+      "PSw": 0.004093153937034852,
+      "Sw": 0.9923379246395782
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1710,
+    "metatarsal": 3934,
+    "midPhalanges": 11496,
+    "distalPhalanges": 3132,
+    "phases": {
+      "LR": 0.0010549292469418793,
+      "MSt": 0.0010549292469418793,
+      "TSt": 0.001722380917292723,
+      "PSw": 0.004094617777824472,
+      "Sw": 0.992073142810999
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1626,
+    "metatarsal": 3976,
+    "midPhalanges": 10960,
+    "distalPhalanges": 3348,
+    "phases": {
+      "LR": 0.0010324434156987773,
+      "MSt": 0.0010324434156987773,
+      "TSt": 0.001601528507811279,
+      "PSw": 0.004569805165023043,
+      "Sw": 0.9917637794957681
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1680,
+    "metatarsal": 4515,
+    "midPhalanges": 11120,
+    "distalPhalanges": 2952,
+    "phases": {
+      "LR": 0.001039414416238673,
+      "MSt": 0.001039414416238673,
+      "TSt": 0.0016662987165330062,
+      "PSw": 0.0036159520697739466,
+      "Sw": 0.9926389203812157
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 1806,
+    "metatarsal": 4788,
+    "midPhalanges": 12000,
+    "distalPhalanges": 2790,
+    "phases": {
+      "LR": 0.001081887778720978,
+      "MSt": 0.001081887778720978,
+      "TSt": 0.0018728376363178402,
+      "PSw": 0.0034103632927422038,
+      "Sw": 0.992553023513498
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1746,
+    "metatarsal": 5964,
+    "midPhalanges": 11408,
+    "distalPhalanges": 3498,
+    "phases": {
+      "LR": 0.0010460050026978047,
+      "MSt": 0.0010460050026978047,
+      "TSt": 0.0017520993451456772,
+      "PSw": 0.005090353896369979,
+      "Sw": 0.9910655367530887
+    }
+  },
+  {
+    "calcaneusTalus": 775,
+    "tarsoMetatarsal": 1566,
+    "metatarsal": 6706,
+    "midPhalanges": 11544,
+    "distalPhalanges": 3408,
+    "phases": {
+      "LR": 0.0010720812253496024,
+      "MSt": 0.0010720812253496024,
+      "TSt": 0.001579988879835196,
+      "PSw": 0.004849995247736803,
+      "Sw": 0.9914258534217288
+    }
+  },
+  {
+    "calcaneusTalus": 890,
+    "tarsoMetatarsal": 1704,
+    "metatarsal": 6797,
+    "midPhalanges": 11296,
+    "distalPhalanges": 4206,
+    "phases": {
+      "LR": 0.0011501817756193655,
+      "MSt": 0.0011501817756193655,
+      "TSt": 0.0016950214277869277,
+      "PSw": 0.007764386436022655,
+      "Sw": 0.9882402285849516
+    }
+  },
+  {
+    "calcaneusTalus": 825,
+    "tarsoMetatarsal": 1710,
+    "metatarsal": 6916,
+    "midPhalanges": 11496,
+    "distalPhalanges": 4164,
+    "phases": {
+      "LR": 0.0011063124466672433,
+      "MSt": 0.0011063124466672433,
+      "TSt": 0.0017160664973391655,
+      "PSw": 0.007635204728252792,
+      "Sw": 0.9884361038810735
+    }
+  },
+  {
+    "calcaneusTalus": 890,
+    "tarsoMetatarsal": 1704,
+    "metatarsal": 6293,
+    "midPhalanges": 11928,
+    "distalPhalanges": 4296,
+    "phases": {
+      "LR": 0.0011835295357755387,
+      "MSt": 0.0011835295357755387,
+      "TSt": 0.001744165979745225,
+      "PSw": 0.008437358949039965,
+      "Sw": 0.9874514159996637
+    }
+  },
+  {
+    "calcaneusTalus": 860,
+    "tarsoMetatarsal": 1692,
+    "metatarsal": 5516,
+    "midPhalanges": 11512,
+    "distalPhalanges": 4668,
+    "phases": {
+      "LR": 0.0011326804884527204,
+      "MSt": 0.0011326804884527204,
+      "TSt": 0.0016938477113014768,
+      "PSw": 0.01033866436132216,
+      "Sw": 0.9857021269504709
+    }
+  },
+  {
+    "calcaneusTalus": 805,
+    "tarsoMetatarsal": 1692,
+    "metatarsal": 5068,
+    "midPhalanges": 11152,
+    "distalPhalanges": 4638,
+    "phases": {
+      "LR": 0.0010724425636588087,
+      "MSt": 0.0010724425636588087,
+      "TSt": 0.0016696376744995787,
+      "PSw": 0.01000766686458983,
+      "Sw": 0.986177810333593
+    }
+  },
+  {
+    "calcaneusTalus": 895,
+    "tarsoMetatarsal": 1614,
+    "metatarsal": 4389,
+    "midPhalanges": 11240,
+    "distalPhalanges": 4620,
+    "phases": {
+      "LR": 0.0011493893660118094,
+      "MSt": 0.0011493893660118094,
+      "TSt": 0.0015975729811252887,
+      "PSw": 0.00993327226179078,
+      "Sw": 0.9861703760250603
+    }
+  },
+  {
+    "calcaneusTalus": 990,
+    "tarsoMetatarsal": 1578,
+    "metatarsal": 4683,
+    "midPhalanges": 11280,
+    "distalPhalanges": 4308,
+    "phases": {
+      "LR": 0.0012360421790726156,
+      "MSt": 0.0012360421790726156,
+      "TSt": 0.0015678465272427975,
+      "PSw": 0.008249673859109035,
+      "Sw": 0.987710395255503
+    }
+  },
+  {
+    "calcaneusTalus": 1015,
+    "tarsoMetatarsal": 1650,
+    "metatarsal": 4760,
+    "midPhalanges": 11536,
+    "distalPhalanges": 3972,
+    "phases": {
+      "LR": 0.0012743161804103231,
+      "MSt": 0.0012743161804103231,
+      "TSt": 0.0016583039164999181,
+      "PSw": 0.006811824834038711,
+      "Sw": 0.9889812388886408
+    }
+  },
+  {
+    "calcaneusTalus": 1070,
+    "tarsoMetatarsal": 1584,
+    "metatarsal": 5397,
+    "midPhalanges": 10616,
+    "distalPhalanges": 2964,
+    "phases": {
+      "LR": 0.0012861915181219656,
+      "MSt": 0.0012861915181219656,
+      "TSt": 0.0015443337631730325,
+      "PSw": 0.0035792911337006765,
+      "Sw": 0.9923039920668824
+    }
+  },
+  {
+    "calcaneusTalus": 1030,
+    "tarsoMetatarsal": 1506,
+    "metatarsal": 6433,
+    "midPhalanges": 10024,
+    "distalPhalanges": 3450,
+    "phases": {
+      "LR": 0.0012281607700252938,
+      "MSt": 0.0012281607700252938,
+      "TSt": 0.0014479407765456097,
+      "PSw": 0.004729441679271542,
+      "Sw": 0.9913662960041323
+    }
+  },
+  {
+    "calcaneusTalus": 1070,
+    "tarsoMetatarsal": 1590,
+    "metatarsal": 7532,
+    "midPhalanges": 10320,
+    "distalPhalanges": 2316,
+    "phases": {
+      "LR": 0.0012768778872721137,
+      "MSt": 0.0012768778872721137,
+      "TSt": 0.0015387688934277955,
+      "PSw": 0.0023950242446251586,
+      "Sw": 0.9935124510874028
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 6630,
+    "metatarsal": 5985,
+    "midPhalanges": 10504,
+    "distalPhalanges": 1764,
+    "phases": {
+      "LR": 0.0010049106921418045,
+      "MSt": 0.0010049106921418045,
+      "TSt": 0.01314023193042749,
+      "PSw": 0.0017018340379679146,
+      "Sw": 0.9831481126473209
+    }
+  },
+  {
+    "calcaneusTalus": 1895,
+    "tarsoMetatarsal": 20016,
+    "metatarsal": 3745,
+    "midPhalanges": 10360,
+    "distalPhalanges": 1356,
+    "phases": {
+      "LR": 0.11997286212213462,
+      "MSt": 0.11997286212213462,
+      "TSt": 0.21208576087834047,
+      "PSw": 0.0685645354719716,
+      "Sw": 0.4794039794054187
+    }
+  },
+  {
+    "calcaneusTalus": 21175,
+    "tarsoMetatarsal": 31932,
+    "metatarsal": 3640,
+    "midPhalanges": 10360,
+    "distalPhalanges": 1506,
+    "phases": {
+      "LR": 0.9957162844923919,
+      "MSt": 0.00392002963633853,
+      "TSt": 0.0003506012613351169,
+      "PSw": 0.000006542304967193121,
+      "Sw": 0.000006542304967193121
+    }
+  },
+  {
+    "calcaneusTalus": 53675,
+    "tarsoMetatarsal": 45840,
+    "metatarsal": 2968,
+    "midPhalanges": 6368,
+    "distalPhalanges": 1056,
+    "phases": {
+      "LR": 0.9973731442607163,
+      "MSt": 0.002626855739238082,
+      "TSt": 1.524057670597031e-14,
+      "PSw": 1.524057670597031e-14,
+      "Sw": 1.524057670597031e-14
+    }
+  },
+  {
+    "calcaneusTalus": 62150,
+    "tarsoMetatarsal": 57330,
+    "metatarsal": 3381,
+    "midPhalanges": 3704,
+    "distalPhalanges": 882,
+    "phases": {
+      "LR": 0.9967659128137136,
+      "MSt": 0.003234087186286372,
+      "TSt": 3.0429001268746956e-17,
+      "PSw": 3.0429001268746956e-17,
+      "Sw": 3.0429001268746956e-17
+    }
+  },
+  {
+    "calcaneusTalus": 59390,
+    "tarsoMetatarsal": 63420,
+    "metatarsal": 5775,
+    "midPhalanges": 3584,
+    "distalPhalanges": 900,
+    "phases": {
+      "LR": 0.9887716543624119,
+      "MSt": 0.011228345637587449,
+      "TSt": 2.29837874004606e-16,
+      "PSw": 2.29837874004606e-16,
+      "Sw": 2.29837874004606e-16
+    }
+  },
+  {
+    "calcaneusTalus": 50685,
+    "tarsoMetatarsal": 69828,
+    "metatarsal": 8526,
+    "midPhalanges": 3624,
+    "distalPhalanges": 870,
+    "phases": {
+      "LR": 0.9542817559732104,
+      "MSt": 0.04571824402665347,
+      "TSt": 1.35220700627985e-13,
+      "PSw": 5.536291420233192e-16,
+      "Sw": 5.536291420233192e-16
+    }
+  },
+  {
+    "calcaneusTalus": 40650,
+    "tarsoMetatarsal": 72402,
+    "metatarsal": 25018,
+    "midPhalanges": 4640,
+    "distalPhalanges": 810,
+    "phases": {
+      "LR": 0.003718612255758447,
+      "MSt": 0.996281387533276,
+      "TSt": 2.1096535183792058e-10,
+      "PSw": 1.1511815637300557e-16,
+      "Sw": 1.1511815637300557e-16
+    }
+  },
+  {
+    "calcaneusTalus": 34930,
+    "tarsoMetatarsal": 72822,
+    "metatarsal": 40740,
+    "midPhalanges": 7360,
+    "distalPhalanges": 1014,
+    "phases": {
+      "LR": 0.0000010128635883379927,
+      "MSt": 0.999998972989794,
+      "TSt": 1.4146617448858587e-8,
+      "PSw": 9.043302565272608e-17,
+      "Sw": 9.043302565272608e-17
+    }
+  },
+  {
+    "calcaneusTalus": 32180,
+    "tarsoMetatarsal": 72000,
+    "metatarsal": 48748,
+    "midPhalanges": 10808,
+    "distalPhalanges": 1512,
+    "phases": {
+      "LR": 1.6267977601388664e-8,
+      "MSt": 0.999999871197003,
+      "TSt": 1.1253501930936334e-7,
+      "PSw": 1.5847201502057987e-16,
+      "Sw": 1.5847201502057987e-16
+    }
+  },
+  {
+    "calcaneusTalus": 30725,
+    "tarsoMetatarsal": 71076,
+    "metatarsal": 51982,
+    "midPhalanges": 13080,
+    "distalPhalanges": 2442,
+    "phases": {
+      "LR": 3.391315318166787e-9,
+      "MSt": 0.9999996266004583,
+      "TSt": 3.7000822590669227e-7,
+      "PSw": 3.1545230406494745e-16,
+      "Sw": 3.1545230406494745e-16
+    }
+  },
+  {
+    "calcaneusTalus": 29885,
+    "tarsoMetatarsal": 70128,
+    "metatarsal": 53326,
+    "midPhalanges": 15128,
+    "distalPhalanges": 3906,
+    "phases": {
+      "LR": 2.1501726261673246e-9,
+      "MSt": 0.9999991208238758,
+      "TSt": 8.77025950179804e-7,
+      "PSw": 7.208197168594809e-16,
+      "Sw": 7.208197168594809e-16
+    }
+  },
+  {
+    "calcaneusTalus": 28575,
+    "tarsoMetatarsal": 68940,
+    "metatarsal": 54250,
+    "midPhalanges": 17608,
+    "distalPhalanges": 4866,
+    "phases": {
+      "LR": 2.3356141104133677e-9,
+      "MSt": 0.9999959637768027,
+      "TSt": 0.000004033887578056283,
+      "PSw": 2.6225620405615315e-15,
+      "Sw": 2.6225620405615315e-15
+    }
+  },
+  {
+    "calcaneusTalus": 27105,
+    "tarsoMetatarsal": 67638,
+    "metatarsal": 55314,
+    "midPhalanges": 20448,
+    "distalPhalanges": 5466,
+    "phases": {
+      "LR": 3.615188314228148e-9,
+      "MSt": 0.9999680104439501,
+      "TSt": 0.000031985940830101095,
+      "PSw": 1.5684440299106553e-14,
+      "Sw": 1.5684440299106553e-14
+    }
+  },
+  {
+    "calcaneusTalus": 25035,
+    "tarsoMetatarsal": 66162,
+    "metatarsal": 56896,
+    "midPhalanges": 24160,
+    "distalPhalanges": 5850,
+    "phases": {
+      "LR": 7.68993797162477e-9,
+      "MSt": 0.9992906258337301,
+      "TSt": 0.0007093664759559189,
+      "PSw": 1.8798753482424637e-13,
+      "Sw": 1.8798753482424637e-13
+    }
+  },
+  {
+    "calcaneusTalus": 22525,
+    "tarsoMetatarsal": 64860,
+    "metatarsal": 58415,
+    "midPhalanges": 27568,
+    "distalPhalanges": 6330,
+    "phases": {
+      "LR": 1.5856453468705713e-8,
+      "MSt": 0.9796337791695361,
+      "TSt": 0.020366204970209727,
+      "PSw": 1.9003305146814455e-12,
+      "Sw": 1.9003305146814455e-12
+    }
+  },
+  {
+    "calcaneusTalus": 19390,
+    "tarsoMetatarsal": 63102,
+    "metatarsal": 60298,
+    "midPhalanges": 31360,
+    "distalPhalanges": 6648,
+    "phases": {
+      "LR": 1.5756359277901065e-8,
+      "MSt": 0.46165748618168523,
+      "TSt": 0.5383424980323653,
+      "PSw": 1.479520816603499e-11,
+      "Sw": 1.479520816603499e-11
+    }
+  },
+  {
+    "calcaneusTalus": 15885,
+    "tarsoMetatarsal": 61638,
+    "metatarsal": 62363,
+    "midPhalanges": 36032,
+    "distalPhalanges": 7044,
+    "phases": {
+      "LR": 7.671534143790233e-10,
+      "MSt": 0.007805498883043826,
+      "TSt": 0.9921945003394266,
+      "PSw": 5.188007975695672e-12,
+      "Sw": 5.188007975695672e-12
+    }
+  },
+  {
+    "calcaneusTalus": 12980,
+    "tarsoMetatarsal": 59652,
+    "metatarsal": 64393,
+    "midPhalanges": 40456,
+    "distalPhalanges": 7380,
+    "phases": {
+      "LR": 3.551342587541586e-11,
+      "MSt": 0.00013790225322921708,
+      "TSt": 0.999862097706586,
+      "PSw": 2.335670722157759e-12,
+      "Sw": 2.335670722157759e-12
+    }
+  },
+  {
+    "calcaneusTalus": 11025,
+    "tarsoMetatarsal": 57540,
+    "metatarsal": 65527,
+    "midPhalanges": 44632,
+    "distalPhalanges": 8202,
+    "phases": {
+      "LR": 6.4513303766755124e-12,
+      "MSt": 0.000006700976453071266,
+      "TSt": 0.9999932990115189,
+      "PSw": 2.788373722331677e-12,
+      "Sw": 2.788373722331677e-12
+    }
+  },
+  {
+    "calcaneusTalus": 9135,
+    "tarsoMetatarsal": 54564,
+    "metatarsal": 66689,
+    "midPhalanges": 49504,
+    "distalPhalanges": 8808,
+    "phases": {
+      "LR": 1.8263273191876834e-12,
+      "MSt": 3.7439849083803676e-7,
+      "TSt": 0.9999996255960302,
+      "PSw": 1.8263273191876834e-12,
+      "Sw": 1.8263273191876834e-12
+    }
+  },
+  {
+    "calcaneusTalus": 7570,
+    "tarsoMetatarsal": 51630,
+    "metatarsal": 67816,
+    "midPhalanges": 54064,
+    "distalPhalanges": 9714,
+    "phases": {
+      "LR": 7.995861147774877e-13,
+      "MSt": 3.6641606332861097e-8,
+      "TSt": 0.9999999633559951,
+      "PSw": 7.995861147774877e-13,
+      "Sw": 7.995861147774877e-13
+    }
+  },
+  {
+    "calcaneusTalus": 6010,
+    "tarsoMetatarsal": 46986,
+    "metatarsal": 69391,
+    "midPhalanges": 59976,
+    "distalPhalanges": 10350,
+    "phases": {
+      "LR": 3.2105471109218467e-13,
+      "MSt": 2.2387503659561565e-9,
+      "TSt": 0.9999999977602864,
+      "PSw": 3.2105471109218467e-13,
+      "Sw": 3.2105471109218467e-13
+    }
+  },
+  {
+    "calcaneusTalus": 4390,
+    "tarsoMetatarsal": 41964,
+    "metatarsal": 71288,
+    "midPhalanges": 66776,
+    "distalPhalanges": 10998,
+    "phases": {
+      "LR": 1.1540433351589283e-13,
+      "MSt": 9.650785030627137e-11,
+      "TSt": 0.999999999903146,
+      "PSw": 1.1540433351589283e-13,
+      "Sw": 1.1540433351589283e-13
+    }
+  },
+  {
+    "calcaneusTalus": 3100,
+    "tarsoMetatarsal": 35916,
+    "metatarsal": 72814,
+    "midPhalanges": 74328,
+    "distalPhalanges": 12060,
+    "phases": {
+      "LR": 5.149873262126548e-14,
+      "MSt": 3.014394523693669e-12,
+      "TSt": 0.9999999999968312,
+      "PSw": 5.149873262126548e-14,
+      "Sw": 5.149873262126548e-14
+    }
+  },
+  {
+    "calcaneusTalus": 1535,
+    "tarsoMetatarsal": 29298,
+    "metatarsal": 74585,
+    "midPhalanges": 83072,
+    "distalPhalanges": 12762,
+    "phases": {
+      "LR": 2.0311226390464752e-14,
+      "MSt": 5.480863475268525e-14,
+      "TSt": 0.9999999999998842,
+      "PSw": 2.0311226390464752e-14,
+      "Sw": 2.0311226390464752e-14
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 22974,
+    "metatarsal": 75803,
+    "midPhalanges": 92560,
+    "distalPhalanges": 13824,
+    "phases": {
+      "LR": 7.112639508639895e-16,
+      "MSt": 7.112639508639895e-16,
+      "TSt": 0.9999999999999871,
+      "PSw": 1.073569354411528e-14,
+      "Sw": 7.112639508639895e-16
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 16422,
+    "metatarsal": 76433,
+    "midPhalanges": 101240,
+    "distalPhalanges": 15000,
+    "phases": {
+      "LR": 1.441382550157253e-17,
+      "MSt": 1.441382550157253e-17,
+      "TSt": 0.9999999999999917,
+      "PSw": 8.326198006889869e-15,
+      "Sw": 1.441382550157253e-17
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 10788,
+    "metatarsal": 73871,
+    "midPhalanges": 107872,
+    "distalPhalanges": 18366,
+    "phases": {
+      "LR": 2.2381732637210534e-18,
+      "MSt": 2.2381732637210534e-18,
+      "TSt": 0.999999999999897,
+      "PSw": 1.029422841558101e-13,
+      "Sw": 2.2381732637210534e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 6240,
+    "metatarsal": 75299,
+    "midPhalanges": 113096,
+    "distalPhalanges": 19512,
+    "phases": {
+      "LR": 2.4055505074856845e-18,
+      "MSt": 2.4055505074856845e-18,
+      "TSt": 0.999999999999427,
+      "PSw": 5.730516662214035e-13,
+      "Sw": 2.4055505074856845e-18
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 4188,
+    "metatarsal": 73920,
+    "midPhalanges": 115352,
+    "distalPhalanges": 20448,
+    "phases": {
+      "LR": 2.9447136032881762e-18,
+      "MSt": 2.9447136032881762e-18,
+      "TSt": 0.9999999999959447,
+      "PSw": 4.055330309077807e-12,
+      "Sw": 2.9447136032881762e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 2754,
+    "metatarsal": 70861,
+    "midPhalanges": 115848,
+    "distalPhalanges": 22866,
+    "phases": {
+      "LR": 5.60816775824356e-18,
+      "MSt": 5.60816775824356e-18,
+      "TSt": 0.9999999999519577,
+      "PSw": 4.8042376673175575e-11,
+      "Sw": 5.60816775824356e-18
+    }
+  },
+  {
+    "calcaneusTalus": 470,
+    "tarsoMetatarsal": 1890,
+    "metatarsal": 68026,
+    "midPhalanges": 116800,
+    "distalPhalanges": 27954,
+    "phases": {
+      "LR": 6.138521914351761e-18,
+      "MSt": 6.138521914351761e-18,
+      "TSt": 0.9999999996415256,
+      "PSw": 3.58474421004221e-10,
+      "Sw": 6.138521914351761e-18
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 1236,
+    "metatarsal": 65044,
+    "midPhalanges": 116392,
+    "distalPhalanges": 29340,
+    "phases": {
+      "LR": 1.1024148508609925e-17,
+      "MSt": 1.1024148508609925e-17,
+      "TSt": 0.9999999974572846,
+      "PSw": 2.542715501494887e-9,
+      "Sw": 1.1024148508609925e-17
+    }
+  },
+  {
+    "calcaneusTalus": 465,
+    "tarsoMetatarsal": 756,
+    "metatarsal": 62461,
+    "midPhalanges": 116248,
+    "distalPhalanges": 35586,
+    "phases": {
+      "LR": 1.578032739728486e-17,
+      "MSt": 1.578032739728486e-17,
+      "TSt": 0.9999999868341972,
+      "PSw": 1.3165802760753849e-8,
+      "Sw": 1.578032739728486e-17
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 738,
+    "metatarsal": 59024,
+    "midPhalanges": 115632,
+    "distalPhalanges": 36264,
+    "phases": {
+      "LR": 2.115327430891648e-17,
+      "MSt": 2.115327430891648e-17,
+      "TSt": 0.9999999195901301,
+      "PSw": 8.040986991297658e-8,
+      "Sw": 2.115327430891648e-17
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 726,
+    "metatarsal": 48797,
+    "midPhalanges": 114920,
+    "distalPhalanges": 40884,
+    "phases": {
+      "LR": 2.9521083532382217e-17,
+      "MSt": 2.9521083532382217e-17,
+      "TSt": 0.9999829127485248,
+      "PSw": 0.00001708725147516713,
+      "Sw": 2.9521083532382217e-17
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 726,
+    "metatarsal": 52780,
+    "midPhalanges": 113952,
+    "distalPhalanges": 42546,
+    "phases": {
+      "LR": 4.598628082216333e-17,
+      "MSt": 4.598628082216333e-17,
+      "TSt": 0.9999978743055519,
+      "PSw": 0.000002125694447956477,
+      "Sw": 4.598628082216333e-17
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 732,
+    "metatarsal": 48083,
+    "midPhalanges": 112976,
+    "distalPhalanges": 45402,
+    "phases": {
+      "LR": 7.163237236281425e-17,
+      "MSt": 7.163237236281425e-17,
+      "TSt": 0.9999752632119522,
+      "PSw": 0.000024736788047577424,
+      "Sw": 7.163237236281425e-17
+    }
+  },
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 726,
+    "metatarsal": 43729,
+    "midPhalanges": 111616,
+    "distalPhalanges": 47778,
+    "phases": {
+      "LR": 1.3398126653636447e-16,
+      "MSt": 1.3398126653636447e-16,
+      "TSt": 0.9997577132633109,
+      "PSw": 0.00024228673668881317,
+      "Sw": 1.3398126653636447e-16
+    }
+  },
+  {
+    "calcaneusTalus": 510,
+    "tarsoMetatarsal": 732,
+    "metatarsal": 39368,
+    "midPhalanges": 108720,
+    "distalPhalanges": 50136,
+    "phases": {
+      "LR": 5.016622364418048e-16,
+      "MSt": 5.016622364418048e-16,
+      "TSt": 0.997640060936132,
+      "PSw": 0.0023599390638664795,
+      "Sw": 5.016622364418048e-16
+    }
+  },
+  {
+    "calcaneusTalus": 530,
+    "tarsoMetatarsal": 750,
+    "metatarsal": 35140,
+    "midPhalanges": 104968,
+    "distalPhalanges": 51678,
+    "phases": {
+      "LR": 2.7137978934441032e-15,
+      "MSt": 2.7137978934441032e-15,
+      "TSt": 0.9790675209792493,
+      "PSw": 0.02093247902074258,
+      "Sw": 2.7137978934441032e-15
+    }
+  },
+  {
+    "calcaneusTalus": 615,
+    "tarsoMetatarsal": 822,
+    "metatarsal": 34272,
+    "midPhalanges": 94320,
+    "distalPhalanges": 34962,
+    "phases": {
+      "LR": 3.3674575416561025e-13,
+      "MSt": 3.3674575416561025e-13,
+      "TSt": 0.9687810609653423,
+      "PSw": 0.031218939033647457,
+      "Sw": 3.3674575416561025e-13
+    }
+  },
+  {
+    "calcaneusTalus": 685,
+    "tarsoMetatarsal": 948,
+    "metatarsal": 28574,
+    "midPhalanges": 76248,
+    "distalPhalanges": 31608,
+    "phases": {
+      "LR": 7.951880615130514e-10,
+      "MSt": 7.951880615130514e-10,
+      "TSt": 0.6296531938547292,
+      "PSw": 0.37034680375970663,
+      "Sw": 7.951880615130514e-10
+    }
+  },
+  {
+    "calcaneusTalus": 845,
+    "tarsoMetatarsal": 1134,
+    "metatarsal": 19712,
+    "midPhalanges": 55344,
+    "distalPhalanges": 26430,
+    "phases": {
+      "LR": 3.099640183062513e-7,
+      "MSt": 3.099640183062513e-7,
+      "TSt": 0.01915968023946949,
+      "PSw": 0.9808393898684755,
+      "Sw": 3.099640183062513e-7
+    }
+  },
+  {
+    "calcaneusTalus": 1065,
+    "tarsoMetatarsal": 1224,
+    "metatarsal": 13370,
+    "midPhalanges": 32160,
+    "distalPhalanges": 20034,
+    "phases": {
+      "LR": 0.0011607782792183682,
+      "MSt": 0.0011607782792183682,
+      "TSt": 0.0018611207957153007,
+      "PSw": 0.9946565443666298,
+      "Sw": 0.0011607782792183682
+    }
+  },
+  {
+    "calcaneusTalus": 965,
+    "tarsoMetatarsal": 1206,
+    "metatarsal": 5978,
+    "midPhalanges": 14648,
+    "distalPhalanges": 8430,
+    "phases": {
+      "LR": 0.0014387363647897502,
+      "MSt": 0.0014387363647897502,
+      "TSt": 0.0014814716010172204,
+      "PSw": 0.11145909060217107,
+      "Sw": 0.8841819650672322
+    }
+  },
+  {
+    "calcaneusTalus": 870,
+    "tarsoMetatarsal": 1464,
+    "metatarsal": 2877,
+    "midPhalanges": 11232,
+    "distalPhalanges": 6510,
+    "phases": {
+      "LR": 0.0011052592649836003,
+      "MSt": 0.0011052592649836003,
+      "TSt": 0.0014278713759589285,
+      "PSw": 0.030238434373045107,
+      "Sw": 0.9661231757210288
+    }
+  },
+  {
+    "calcaneusTalus": 800,
+    "tarsoMetatarsal": 1638,
+    "metatarsal": 2877,
+    "midPhalanges": 10584,
+    "distalPhalanges": 7182,
+    "phases": {
+      "LR": 0.0010129118969074212,
+      "MSt": 0.0010129118969074212,
+      "TSt": 0.0015314878503217737,
+      "PSw": 0.043334616405508265,
+      "Sw": 0.9531080719503551
+    }
+  },
+  {
+    "calcaneusTalus": 820,
+    "tarsoMetatarsal": 1896,
+    "metatarsal": 2919,
+    "midPhalanges": 10744,
+    "distalPhalanges": 6720,
+    "phases": {
+      "LR": 0.0010432397393545525,
+      "MSt": 0.0010432397393545525,
+      "TSt": 0.0018191279018843968,
+      "PSw": 0.03352391754526835,
+      "Sw": 0.9625704750741382
+    }
+  },
+  {
+    "calcaneusTalus": 960,
+    "tarsoMetatarsal": 1770,
+    "metatarsal": 3150,
+    "midPhalanges": 9816,
+    "distalPhalanges": 5016,
+    "phases": {
+      "LR": 0.0011526695585513415,
+      "MSt": 0.0011526695585513415,
+      "TSt": 0.0016801087596188865,
+      "PSw": 0.012066323373576451,
+      "Sw": 0.983948228749702
+    }
+  },
+  {
+    "calcaneusTalus": 815,
+    "tarsoMetatarsal": 1680,
+    "metatarsal": 3318,
+    "midPhalanges": 10040,
+    "distalPhalanges": 4674,
+    "phases": {
+      "LR": 0.0010445195987490651,
+      "MSt": 0.0010445195987490651,
+      "TSt": 0.0016025426549518334,
+      "PSw": 0.009888994382145567,
+      "Sw": 0.9864194237654045
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1896,
+    "metatarsal": 3570,
+    "midPhalanges": 10656,
+    "distalPhalanges": 3648,
+    "phases": {
+      "LR": 0.0010172422658434458,
+      "MSt": 0.0010172422658434458,
+      "TSt": 0.0018670379601811275,
+      "PSw": 0.0054226953668006506,
+      "Sw": 0.9906757821413313
+    }
+  },
+  {
+    "calcaneusTalus": 940,
+    "tarsoMetatarsal": 1614,
+    "metatarsal": 3787,
+    "midPhalanges": 9696,
+    "distalPhalanges": 3252,
+    "phases": {
+      "LR": 0.0011423443833274431,
+      "MSt": 0.0011423443833274431,
+      "TSt": 0.0015363447292861207,
+      "PSw": 0.004165628968395712,
+      "Sw": 0.9920133375356632
+    }
+  },
+  {
+    "calcaneusTalus": 1015,
+    "tarsoMetatarsal": 1446,
+    "metatarsal": 3941,
+    "midPhalanges": 10928,
+    "distalPhalanges": 2778,
+    "phases": {
+      "LR": 0.0012487728389225874,
+      "MSt": 0.0012487728389225874,
+      "TSt": 0.0014350245343207686,
+      "PSw": 0.0032306849422456623,
+      "Sw": 0.9928367448455884
+    }
+  },
+  {
+    "calcaneusTalus": 995,
+    "tarsoMetatarsal": 1776,
+    "metatarsal": 4046,
+    "midPhalanges": 10136,
+    "distalPhalanges": 2436,
+    "phases": {
+      "LR": 0.001202719143381563,
+      "MSt": 0.001202719143381563,
+      "TSt": 0.0017149910566523425,
+      "PSw": 0.0025638969245108836,
+      "Sw": 0.9933156737320736
+    }
+  },
+  {
+    "calcaneusTalus": 995,
+    "tarsoMetatarsal": 1800,
+    "metatarsal": 4074,
+    "midPhalanges": 10456,
+    "distalPhalanges": 2406,
+    "phases": {
+      "LR": 0.00121296575775903,
+      "MSt": 0.00121296575775903,
+      "TSt": 0.0017550884122906525,
+      "PSw": 0.0025389257983646257,
+      "Sw": 0.9932800542738267
+    }
+  },
+  {
+    "calcaneusTalus": 1065,
+    "tarsoMetatarsal": 1416,
+    "metatarsal": 5516,
+    "midPhalanges": 10864,
+    "distalPhalanges": 2316,
+    "phases": {
+      "LR": 0.001293416327245397,
+      "MSt": 0.001293416327245397,
+      "TSt": 0.0014069583466953276,
+      "PSw": 0.002434937332046774,
+      "Sw": 0.9935712716667671
+    }
+  },
+  {
+    "calcaneusTalus": 1090,
+    "tarsoMetatarsal": 1488,
+    "metatarsal": 6566,
+    "midPhalanges": 10912,
+    "distalPhalanges": 2436,
+    "phases": {
+      "LR": 0.0013190582470063916,
+      "MSt": 0.0013190582470063916,
+      "TSt": 0.0014720640922844437,
+      "PSw": 0.0026230739401620954,
+      "Sw": 0.9932667454735407
+    }
+  },
+  {
+    "calcaneusTalus": 940,
+    "tarsoMetatarsal": 1464,
+    "metatarsal": 7329,
+    "midPhalanges": 10688,
+    "distalPhalanges": 2490,
+    "phases": {
+      "LR": 0.0011735282442692303,
+      "MSt": 0.0011735282442692303,
+      "TSt": 0.001440359295050514,
+      "PSw": 0.0026914799931879907,
+      "Sw": 0.993521104223223
+    }
+  },
+  {
+    "calcaneusTalus": 1105,
+    "tarsoMetatarsal": 1392,
+    "metatarsal": 8176,
+    "midPhalanges": 10608,
+    "distalPhalanges": 2676,
+    "phases": {
+      "LR": 0.0013201332459669712,
+      "MSt": 0.0013201332459669712,
+      "TSt": 0.001374341470949792,
+      "PSw": 0.0030051307835639576,
+      "Sw": 0.9929802612535523
+    }
+  },
+  {
+    "calcaneusTalus": 1095,
+    "tarsoMetatarsal": 1218,
+    "metatarsal": 8743,
+    "midPhalanges": 11408,
+    "distalPhalanges": 2754,
+    "phases": {
+      "LR": 0.0013488636880537959,
+      "MSt": 0.0012721706376041893,
+      "TSt": 0.0012721706376041893,
+      "PSw": 0.0032434875319887315,
+      "Sw": 0.992863307504749
+    }
+  },
+  {
+    "calcaneusTalus": 1080,
+    "tarsoMetatarsal": 1242,
+    "metatarsal": 8946,
+    "midPhalanges": 11480,
+    "distalPhalanges": 2724,
+    "phases": {
+      "LR": 0.001338320804612209,
+      "MSt": 0.0012949708501569395,
+      "TSt": 0.0012949708501569395,
+      "PSw": 0.0031947748580371535,
+      "Sw": 0.9928769626370367
+    }
+  },
+  {
+    "calcaneusTalus": 1205,
+    "tarsoMetatarsal": 1242,
+    "metatarsal": 8666,
+    "midPhalanges": 11632,
+    "distalPhalanges": 2964,
+    "phases": {
+      "LR": 0.001475620466609461,
+      "MSt": 0.0013030306413844334,
+      "TSt": 0.0013030306413844334,
+      "PSw": 0.003720218663266008,
+      "Sw": 0.9921980995873557
+    }
+  },
+  {
+    "calcaneusTalus": 1155,
+    "tarsoMetatarsal": 1320,
+    "metatarsal": 8197,
+    "midPhalanges": 11072,
+    "distalPhalanges": 2886,
+    "phases": {
+      "LR": 0.001390143899634659,
+      "MSt": 0.0013353121297749028,
+      "TSt": 0.0013353121297749028,
+      "PSw": 0.0034667955181683476,
+      "Sw": 0.9924724363226471
+    }
+  },
+  {
+    "calcaneusTalus": 1195,
+    "tarsoMetatarsal": 1392,
+    "metatarsal": 8078,
+    "midPhalanges": 11600,
+    "distalPhalanges": 3054,
+    "phases": {
+      "LR": 0.0014620507969041194,
+      "MSt": 0.001425086678444117,
+      "TSt": 0.001425086678444117,
+      "PSw": 0.003922052737138908,
+      "Sw": 0.9917657231090687
+    }
+  },
+  {
+    "calcaneusTalus": 965,
+    "tarsoMetatarsal": 1800,
+    "metatarsal": 6349,
+    "midPhalanges": 11184,
+    "distalPhalanges": 3114,
+    "phases": {
+      "LR": 0.0012140102307077886,
+      "MSt": 0.0012140102307077886,
+      "TSt": 0.001795588961754912,
+      "PSw": 0.003996800415931189,
+      "Sw": 0.9917795901608983
+    }
+  },
+  {
+    "calcaneusTalus": 1005,
+    "tarsoMetatarsal": 1578,
+    "metatarsal": 5824,
+    "midPhalanges": 11368,
+    "distalPhalanges": 3150,
+    "phases": {
+      "LR": 0.0012593933547530526,
+      "MSt": 0.0012593933547530526,
+      "TSt": 0.0015800275633678184,
+      "PSw": 0.004115747696152846,
+      "Sw": 0.9917854380309732
+    }
+  },
+  {
+    "calcaneusTalus": 1115,
+    "tarsoMetatarsal": 1500,
+    "metatarsal": 5719,
+    "midPhalanges": 11336,
+    "distalPhalanges": 3744,
+    "phases": {
+      "LR": 0.0013605311889986866,
+      "MSt": 0.0013605311889986866,
+      "TSt": 0.001501772890584295,
+      "PSw": 0.005885943999215549,
+      "Sw": 0.9898912207322028
+    }
+  },
+  {
+    "calcaneusTalus": 1125,
+    "tarsoMetatarsal": 1416,
+    "metatarsal": 6209,
+    "midPhalanges": 10696,
+    "distalPhalanges": 4272,
+    "phases": {
+      "LR": 0.001336553956775687,
+      "MSt": 0.001336553956775687,
+      "TSt": 0.0013914354136815976,
+      "PSw": 0.007907082297564967,
+      "Sw": 0.9880283743752021
+    }
+  },
+  {
+    "calcaneusTalus": 1015,
+    "tarsoMetatarsal": 1632,
+    "metatarsal": 7203,
+    "midPhalanges": 10480,
+    "distalPhalanges": 4854,
+    "phases": {
+      "LR": 0.001221241086203961,
+      "MSt": 0.001221241086203961,
+      "TSt": 0.0015718932405752197,
+      "PSw": 0.01113572123616669,
+      "Sw": 0.9848499033508502
+    }
+  },
+  {
+    "calcaneusTalus": 755,
+    "tarsoMetatarsal": 4416,
+    "metatarsal": 5425,
+    "midPhalanges": 9976,
+    "distalPhalanges": 2652,
+    "phases": {
+      "LR": 0.0009983869900099856,
+      "MSt": 0.0009983869900099856,
+      "TSt": 0.008448937971104273,
+      "PSw": 0.0028935747690383797,
+      "Sw": 0.9866607132798374
+    }
+  },
+  {
+    "calcaneusTalus": 1930,
+    "tarsoMetatarsal": 18252,
+    "metatarsal": 4074,
+    "midPhalanges": 9768,
+    "distalPhalanges": 2040,
+    "phases": {
+      "LR": 0.06198646678251975,
+      "MSt": 0.06198646678251975,
+      "TSt": 0.1267839590301244,
+      "PSw": 0.052392835078160685,
+      "Sw": 0.6968502723266754
+    }
+  },
+  {
+    "calcaneusTalus": 19345,
+    "tarsoMetatarsal": 29766,
+    "metatarsal": 3381,
+    "midPhalanges": 10152,
+    "distalPhalanges": 1710,
+    "phases": {
+      "LR": 0.9952160456358101,
+      "MSt": 0.0034044874512097084,
+      "TSt": 0.0013306624840660145,
+      "PSw": 0.000024402214457099676,
+      "Sw": 0.000024402214457099676
+    }
+  },
+  {
+    "calcaneusTalus": 51530,
+    "tarsoMetatarsal": 42504,
+    "metatarsal": 2856,
+    "midPhalanges": 6472,
+    "distalPhalanges": 1302,
+    "phases": {
+      "LR": 0.9975207185667144,
+      "MSt": 0.002479281433065237,
+      "TSt": 7.340784282785776e-14,
+      "PSw": 7.340784282785776e-14,
+      "Sw": 7.340784282785776e-14
+    }
+  },
+  {
+    "calcaneusTalus": 62950,
+    "tarsoMetatarsal": 56058,
+    "metatarsal": 2443,
+    "midPhalanges": 3720,
+    "distalPhalanges": 1056,
+    "phases": {
+      "LR": 0.9980158189074367,
+      "MSt": 0.0019841810925633196,
+      "TSt": 1.6951602169161256e-17,
+      "PSw": 1.6951602169161256e-17,
+      "Sw": 1.6951602169161256e-17
+    }
+  },
+  {
+    "calcaneusTalus": 61165,
+    "tarsoMetatarsal": 61056,
+    "metatarsal": 3752,
+    "midPhalanges": 3304,
+    "distalPhalanges": 948,
+    "phases": {
+      "LR": 0.9960756795536553,
+      "MSt": 0.00392432044634472,
+      "TSt": 6.261518774215557e-17,
+      "PSw": 6.261518774215557e-17,
+      "Sw": 6.261518774215557e-17
+    }
+  },
+  {
+    "calcaneusTalus": 50605,
+    "tarsoMetatarsal": 69444,
+    "metatarsal": 6258,
+    "midPhalanges": 3464,
+    "distalPhalanges": 1596,
+    "phases": {
+      "LR": 0.9855893848640604,
+      "MSt": 0.014410615135794802,
+      "TSt": 1.433825626859879e-13,
+      "PSw": 6.998928684702208e-16,
+      "Sw": 6.998928684702208e-16
+    }
+  },
+  {
+    "calcaneusTalus": 39035,
+    "tarsoMetatarsal": 72636,
+    "metatarsal": 25424,
+    "midPhalanges": 4584,
+    "distalPhalanges": 2214,
+    "phases": {
+      "LR": 0.003010786308632852,
+      "MSt": 0.9969892130022315,
+      "TSt": 6.891353274888941e-10,
+      "PSw": 9.985263754413145e-17,
+      "Sw": 9.985263754413145e-17
+    }
+  },
+  {
+    "calcaneusTalus": 33205,
+    "tarsoMetatarsal": 72552,
+    "metatarsal": 44086,
+    "midPhalanges": 7880,
+    "distalPhalanges": 2520,
+    "phases": {
+      "LR": 1.765967090595683e-7,
+      "MSt": 0.999999773130775,
+      "TSt": 5.02725157086081e-8,
+      "PSw": 1.0709233856647326e-16,
+      "Sw": 1.0709233856647326e-16
+    }
+  },
+  {
+    "calcaneusTalus": 30035,
+    "tarsoMetatarsal": 71658,
+    "metatarsal": 50806,
+    "midPhalanges": 12600,
+    "distalPhalanges": 3348,
+    "phases": {
+      "LR": 6.0513372956155125e-9,
+      "MSt": 0.9999994024281429,
+      "TSt": 5.915205194026618e-7,
+      "PSw": 2.132303355797764e-16,
+      "Sw": 2.132303355797764e-16
+    }
+  },
+  {
+    "calcaneusTalus": 27850,
+    "tarsoMetatarsal": 70356,
+    "metatarsal": 55062,
+    "midPhalanges": 15912,
+    "distalPhalanges": 3894,
+    "phases": {
+      "LR": 1.0018093271074896e-9,
+      "MSt": 0.9999954979678567,
+      "TSt": 0.000004501030332463198,
+      "PSw": 7.247881393428384e-16,
+      "Sw": 7.247881393428384e-16
+    }
+  },
+  {
+    "calcaneusTalus": 25945,
+    "tarsoMetatarsal": 68652,
+    "metatarsal": 57890,
+    "midPhalanges": 19640,
+    "distalPhalanges": 4734,
+    "phases": {
+      "LR": 6.877007303612891e-10,
+      "MSt": 0.9999452071351858,
+      "TSt": 0.00005479217710115337,
+      "PSw": 6.184594355086809e-15,
+      "Sw": 6.184594355086809e-15
+    }
+  },
+  {
+    "calcaneusTalus": 23905,
+    "tarsoMetatarsal": 67044,
+    "metatarsal": 59542,
+    "midPhalanges": 23752,
+    "distalPhalanges": 5292,
+    "phases": {
+      "LR": 1.6055891888482457e-9,
+      "MSt": 0.9986465928365524,
+      "TSt": 0.0013534055576751823,
+      "PSw": 9.147882915894975e-14,
+      "Sw": 9.147882915894975e-14
+    }
+  },
+  {
+    "calcaneusTalus": 21875,
+    "tarsoMetatarsal": 65076,
+    "metatarsal": 60788,
+    "midPhalanges": 28304,
+    "distalPhalanges": 5898,
+    "phases": {
+      "LR": 6.246101532041e-9,
+      "MSt": 0.9552929332425912,
+      "TSt": 0.044707060506765095,
+      "PSw": 2.271178531988078e-12,
+      "Sw": 2.271178531988078e-12
+    }
+  },
+  {
+    "calcaneusTalus": 19635,
+    "tarsoMetatarsal": 63054,
+    "metatarsal": 61838,
+    "midPhalanges": 32536,
+    "distalPhalanges": 6504,
+    "phases": {
+      "LR": 9.781766138949215e-9,
+      "MSt": 0.37462867063593097,
+      "TSt": 0.6253713195399562,
+      "PSw": 2.1173368687402778e-11,
+      "Sw": 2.1173368687402778e-11
+    }
+  },
+  {
+    "calcaneusTalus": 16755,
+    "tarsoMetatarsal": 61314,
+    "metatarsal": 63112,
+    "midPhalanges": 37144,
+    "distalPhalanges": 7194,
+    "phases": {
+      "LR": 9.723077064105077e-10,
+      "MSt": 0.008799080289033643,
+      "TSt": 0.9912009187149409,
+      "PSw": 1.18589032923346e-11,
+      "Sw": 1.18589032923346e-11
+    }
+  },
+  {
+    "calcaneusTalus": 13470,
+    "tarsoMetatarsal": 59016,
+    "metatarsal": 64393,
+    "midPhalanges": 42200,
+    "distalPhalanges": 7968,
+    "phases": {
+      "LR": 4.903931736405655e-11,
+      "MSt": 0.0000856895472004604,
+      "TSt": 0.9999143103942493,
+      "PSw": 4.7554391075376935e-12,
+      "Sw": 4.7554391075376935e-12
+    }
+  },
+  {
+    "calcaneusTalus": 10575,
+    "tarsoMetatarsal": 56262,
+    "metatarsal": 65779,
+    "midPhalanges": 47360,
+    "distalPhalanges": 8718,
+    "phases": {
+      "LR": 4.637474950912232e-12,
+      "MSt": 0.0000015760512559226907,
+      "TSt": 0.9999984239348316,
+      "PSw": 4.637474950912232e-12,
+      "Sw": 4.637474950912232e-12
+    }
+  },
+  {
+    "calcaneusTalus": 8285,
+    "tarsoMetatarsal": 53274,
+    "metatarsal": 66906,
+    "midPhalanges": 52328,
+    "distalPhalanges": 9408,
+    "phases": {
+      "LR": 1.397252946113773e-12,
+      "MSt": 8.806144671309157e-8,
+      "TSt": 0.9999999119343616,
+      "PSw": 1.397252946113773e-12,
+      "Sw": 1.397252946113773e-12
+    }
+  },
+  {
+    "calcaneusTalus": 6665,
+    "tarsoMetatarsal": 49956,
+    "metatarsal": 68173,
+    "midPhalanges": 57056,
+    "distalPhalanges": 10158,
+    "phases": {
+      "LR": 6.234369265455188e-13,
+      "MSt": 8.751171551634629e-9,
+      "TSt": 0.9999999912469582,
+      "PSw": 6.234369265455188e-13,
+      "Sw": 6.234369265455188e-13
+    }
+  },
+  {
+    "calcaneusTalus": 5585,
+    "tarsoMetatarsal": 46170,
+    "metatarsal": 68908,
+    "midPhalanges": 61728,
+    "distalPhalanges": 10848,
+    "phases": {
+      "LR": 4.0859556395401237e-13,
+      "MSt": 9.921182864589392e-10,
+      "TSt": 0.999999999006656,
+      "PSw": 4.0859556395401237e-13,
+      "Sw": 4.0859556395401237e-13
+    }
+  },
+  {
+    "calcaneusTalus": 4815,
+    "tarsoMetatarsal": 42858,
+    "metatarsal": 69818,
+    "midPhalanges": 65904,
+    "distalPhalanges": 11568,
+    "phases": {
+      "LR": 2.5029210082845575e-13,
+      "MSt": 1.44582129881868e-10,
+      "TSt": 0.999999999854667,
+      "PSw": 2.5029210082845575e-13,
+      "Sw": 2.5029210082845575e-13
+    }
+  },
+  {
+    "calcaneusTalus": 3895,
+    "tarsoMetatarsal": 38898,
+    "metatarsal": 70588,
+    "midPhalanges": 71256,
+    "distalPhalanges": 12282,
+    "phases": {
+      "LR": 1.6576923175234695e-13,
+      "MSt": 1.2356678465726056e-11,
+      "TSt": 0.9999999999871461,
+      "PSw": 1.6576923175234695e-13,
+      "Sw": 1.6576923175234695e-13
+    }
+  },
+  {
+    "calcaneusTalus": 3025,
+    "tarsoMetatarsal": 34554,
+    "metatarsal": 71435,
+    "midPhalanges": 77024,
+    "distalPhalanges": 12804,
+    "phases": {
+      "LR": 1.0594116443362316e-13,
+      "MSt": 8.769386197609243e-13,
+      "TSt": 0.9999999999988054,
+      "PSw": 1.0594116443362316e-13,
+      "Sw": 1.0594116443362316e-13
+    }
+  },
+  {
+    "calcaneusTalus": 2015,
+    "tarsoMetatarsal": 29898,
+    "metatarsal": 72464,
+    "midPhalanges": 83744,
+    "distalPhalanges": 13746,
+    "phases": {
+      "LR": 4.0320965015025435e-14,
+      "MSt": 4.0320965015025435e-14,
+      "TSt": 0.9999999999998174,
+      "PSw": 6.166891420351266e-14,
+      "Sw": 4.0320965015025435e-14
+    }
+  },
+  {
+    "calcaneusTalus": 1235,
+    "tarsoMetatarsal": 25596,
+    "metatarsal": 73353,
+    "midPhalanges": 89912,
+    "distalPhalanges": 14658,
+    "phases": {
+      "LR": 2.3908385318026173e-15,
+      "MSt": 2.3908385318026173e-15,
+      "TSt": 0.999999999999954,
+      "PSw": 3.8687901886849354e-14,
+      "Sw": 2.3908385318026173e-15
+    }
+  },
+  {
+    "calcaneusTalus": 740,
+    "tarsoMetatarsal": 21408,
+    "metatarsal": 74053,
+    "midPhalanges": 95600,
+    "distalPhalanges": 15522,
+    "phases": {
+      "LR": 1.772289978932055e-16,
+      "MSt": 1.772289978932055e-16,
+      "TSt": 0.9999999999999726,
+      "PSw": 2.68876053502745e-14,
+      "Sw": 1.772289978932055e-16
+    }
+  },
+  {
+    "calcaneusTalus": 510,
+    "tarsoMetatarsal": 16986,
+    "metatarsal": 74200,
+    "midPhalanges": 101552,
+    "distalPhalanges": 16764,
+    "phases": {
+      "LR": 1.2225390405299353e-17,
+      "MSt": 1.2225390405299353e-17,
+      "TSt": 0.9999999999999738,
+      "PSw": 2.6208646127460917e-14,
+      "Sw": 1.2225390405299353e-17
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 12180,
+    "metatarsal": 74067,
+    "midPhalanges": 106336,
+    "distalPhalanges": 17976,
+    "phases": {
+      "LR": 2.67406290284996e-18,
+      "MSt": 2.67406290284996e-18,
+      "TSt": 0.999999999999945,
+      "PSw": 5.494027321920993e-14,
+      "Sw": 2.67406290284996e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 8376,
+    "metatarsal": 73801,
+    "midPhalanges": 111312,
+    "distalPhalanges": 19710,
+    "phases": {
+      "LR": 1.5744657752419943e-18,
+      "MSt": 1.5744657752419943e-18,
+      "TSt": 0.9999999999996371,
+      "PSw": 3.6290681503608956e-13,
+      "Sw": 1.5744657752419943e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 5016,
+    "metatarsal": 72177,
+    "midPhalanges": 114488,
+    "distalPhalanges": 22140,
+    "phases": {
+      "LR": 2.6505538173726523e-18,
+      "MSt": 2.6505538173726523e-18,
+      "TSt": 0.9999999999938817,
+      "PSw": 6.11822914891947e-12,
+      "Sw": 2.6505538173726523e-18
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 2964,
+    "metatarsal": 70840,
+    "midPhalanges": 116592,
+    "distalPhalanges": 24456,
+    "phases": {
+      "LR": 3.510522094054965e-18,
+      "MSt": 3.510522094054965e-18,
+      "TSt": 0.9999999999572541,
+      "PSw": 4.2745867678322327e-11,
+      "Sw": 3.510522094054965e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 2076,
+    "metatarsal": 67872,
+    "midPhalanges": 117400,
+    "distalPhalanges": 25380,
+    "phases": {
+      "LR": 4.164166190899056e-18,
+      "MSt": 4.164166190899056e-18,
+      "TSt": 0.9999999996530777,
+      "PSw": 3.469222673479469e-10,
+      "Sw": 4.164166190899056e-18
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 1428,
+    "metatarsal": 65555,
+    "midPhalanges": 117456,
+    "distalPhalanges": 27738,
+    "phases": {
+      "LR": 6.024525259121299e-18,
+      "MSt": 6.024525259121299e-18,
+      "TSt": 0.9999999982688891,
+      "PSw": 1.7311108639794805e-9,
+      "Sw": 6.024525259121299e-18
+    }
+  },
+  {
+    "calcaneusTalus": 465,
+    "tarsoMetatarsal": 906,
+    "metatarsal": 63616,
+    "midPhalanges": 117584,
+    "distalPhalanges": 30252,
+    "phases": {
+      "LR": 7.811144046012927e-18,
+      "MSt": 7.811144046012927e-18,
+      "TSt": 0.9999999934351074,
+      "PSw": 6.564892614754714e-9,
+      "Sw": 7.811144046012927e-18
+    }
+  },
+  {
+    "calcaneusTalus": 470,
+    "tarsoMetatarsal": 738,
+    "metatarsal": 59514,
+    "midPhalanges": 117264,
+    "distalPhalanges": 36888,
+    "phases": {
+      "LR": 1.0019588010594206e-17,
+      "MSt": 1.0019588010594206e-17,
+      "TSt": 0.9999999377768766,
+      "PSw": 6.222312346546115e-8,
+      "Sw": 1.0019588010594206e-17
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 708,
+    "metatarsal": 55629,
+    "midPhalanges": 117064,
+    "distalPhalanges": 38484,
+    "phases": {
+      "LR": 1.1183236646914869e-17,
+      "MSt": 1.1183236646914869e-17,
+      "TSt": 0.9999995160446828,
+      "PSw": 4.839553171974268e-7,
+      "Sw": 1.1183236646914869e-17
+    }
+  },
+  {
+    "calcaneusTalus": 490,
+    "tarsoMetatarsal": 726,
+    "metatarsal": 50834,
+    "midPhalanges": 115872,
+    "distalPhalanges": 41850,
+    "phases": {
+      "LR": 1.909102769604636e-17,
+      "MSt": 1.909102769604636e-17,
+      "TSt": 0.9999941149819739,
+      "PSw": 0.000005885018026109838,
+      "Sw": 1.909102769604636e-17
+    }
+  },
+  {
+    "calcaneusTalus": 505,
+    "tarsoMetatarsal": 714,
+    "metatarsal": 45850,
+    "midPhalanges": 114192,
+    "distalPhalanges": 45330,
+    "phases": {
+      "LR": 4.150003992938651e-17,
+      "MSt": 4.150003992938651e-17,
+      "TSt": 0.9999195437548821,
+      "PSw": 0.00008045624511776252,
+      "Sw": 4.150003992938651e-17
+    }
+  },
+  {
+    "calcaneusTalus": 510,
+    "tarsoMetatarsal": 732,
+    "metatarsal": 39249,
+    "midPhalanges": 112272,
+    "distalPhalanges": 48318,
+    "phases": {
+      "LR": 9.863259794966776e-17,
+      "MSt": 9.863259794966776e-17,
+      "TSt": 0.9974888140962994,
+      "PSw": 0.0025111859037002947,
+      "Sw": 9.863259794966776e-17
+    }
+  },
+  {
+    "calcaneusTalus": 560,
+    "tarsoMetatarsal": 750,
+    "metatarsal": 38311,
+    "midPhalanges": 109096,
+    "distalPhalanges": 32838,
+    "phases": {
+      "LR": 4.1700136006413225e-16,
+      "MSt": 4.1700136006413225e-16,
+      "TSt": 0.9959485637825666,
+      "PSw": 0.0040514362174321195,
+      "Sw": 4.1700136006413225e-16
+    }
+  },
+  {
+    "calcaneusTalus": 575,
+    "tarsoMetatarsal": 798,
+    "metatarsal": 32830,
+    "midPhalanges": 102696,
+    "distalPhalanges": 35466,
+    "phases": {
+      "LR": 7.12271198681106e-15,
+      "MSt": 7.12271198681106e-15,
+      "TSt": 0.9349799473341686,
+      "PSw": 0.0650200526658101,
+      "Sw": 7.12271198681106e-15
+    }
+  },
+  {
+    "calcaneusTalus": 645,
+    "tarsoMetatarsal": 840,
+    "metatarsal": 28154,
+    "midPhalanges": 86120,
+    "distalPhalanges": 34320,
+    "phases": {
+      "LR": 8.238798665692091e-12,
+      "MSt": 8.238798665692091e-12,
+      "TSt": 0.5609997313696508,
+      "PSw": 0.4390002686056329,
+      "Sw": 8.238798665692091e-12
+    }
+  },
+  {
+    "calcaneusTalus": 760,
+    "tarsoMetatarsal": 978,
+    "metatarsal": 20923,
+    "midPhalanges": 67968,
+    "distalPhalanges": 30546,
+    "phases": {
+      "LR": 1.7338278891254415e-9,
+      "MSt": 1.7338278891254415e-9,
+      "TSt": 0.03155605363435376,
+      "PSw": 0.9684439411641627,
+      "Sw": 1.7338278891254415e-9
+    }
+  },
+  {
+    "calcaneusTalus": 900,
+    "tarsoMetatarsal": 1188,
+    "metatarsal": 15176,
+    "midPhalanges": 44280,
+    "distalPhalanges": 24594,
+    "phases": {
+      "LR": 0.0000072127575346828256,
+      "MSt": 0.0000072127575346828256,
+      "TSt": 0.0029065222343601653,
+      "PSw": 0.9970718394930358,
+      "Sw": 0.0000072127575346828256
+    }
+  },
+  {
+    "calcaneusTalus": 1050,
+    "tarsoMetatarsal": 1296,
+    "metatarsal": 7273,
+    "midPhalanges": 21144,
+    "distalPhalanges": 12000,
+    "phases": {
+      "LR": 0.0021226403328671642,
+      "MSt": 0.0021226403328671642,
+      "TSt": 0.00216975071714734,
+      "PSw": 0.8129746693617219,
+      "Sw": 0.1806102992553964
+    }
+  },
+  {
+    "calcaneusTalus": 750,
+    "tarsoMetatarsal": 1812,
+    "metatarsal": 3045,
+    "midPhalanges": 11136,
+    "distalPhalanges": 8550,
+    "phases": {
+      "LR": 0.0009630681109720716,
+      "MSt": 0.0009630681109720716,
+      "TSt": 0.0016793931782778933,
+      "PSw": 0.08359905848936637,
+      "Sw": 0.9127954121104116
+    }
+  },
+  {
+    "calcaneusTalus": 845,
+    "tarsoMetatarsal": 1320,
+    "metatarsal": 2758,
+    "midPhalanges": 10304,
+    "distalPhalanges": 5262,
+    "phases": {
+      "LR": 0.0010704946742733075,
+      "MSt": 0.0010704946742733075,
+      "TSt": 0.0012901045965245986,
+      "PSw": 0.01413860505521886,
+      "Sw": 0.98243030099971
+    }
+  },
+  {
+    "calcaneusTalus": 790,
+    "tarsoMetatarsal": 1434,
+    "metatarsal": 2492,
+    "midPhalanges": 10632,
+    "distalPhalanges": 6150,
+    "phases": {
+      "LR": 0.0010274858642900192,
+      "MSt": 0.0010274858642900192,
+      "TSt": 0.0013819254948938342,
+      "PSw": 0.0240605673771414,
+      "Sw": 0.9725025353993847
+    }
+  },
+  {
+    "calcaneusTalus": 805,
+    "tarsoMetatarsal": 1638,
+    "metatarsal": 2464,
+    "midPhalanges": 11072,
+    "distalPhalanges": 5964,
+    "phases": {
+      "LR": 0.0010564457149209617,
+      "MSt": 0.0010564457149209617,
+      "TSt": 0.001591475032638324,
+      "PSw": 0.021896327309628028,
+      "Sw": 0.9743993062278917
+    }
+  },
+  {
+    "calcaneusTalus": 795,
+    "tarsoMetatarsal": 1824,
+    "metatarsal": 2618,
+    "midPhalanges": 10768,
+    "distalPhalanges": 5442,
+    "phases": {
+      "LR": 0.001043898062551549,
+      "MSt": 0.001043898062551549,
+      "TSt": 0.0017742970077765153,
+      "PSw": 0.01593726828785337,
+      "Sw": 0.980200638579267
+    }
+  },
+  {
+    "calcaneusTalus": 815,
+    "tarsoMetatarsal": 1878,
+    "metatarsal": 2541,
+    "midPhalanges": 10120,
+    "distalPhalanges": 4278,
+    "phases": {
+      "LR": 0.001048517196510097,
+      "MSt": 0.001048517196510097,
+      "TSt": 0.0018150131043338667,
+      "PSw": 0.007810954551271382,
+      "Sw": 0.9882769979513746
+    }
+  },
+  {
+    "calcaneusTalus": 765,
+    "tarsoMetatarsal": 1992,
+    "metatarsal": 2569,
+    "midPhalanges": 9728,
+    "distalPhalanges": 4110,
+    "phases": {
+      "LR": 0.001002699408045656,
+      "MSt": 0.001002699408045656,
+      "TSt": 0.0019299174918675035,
+      "PSw": 0.006997864481219705,
+      "Sw": 0.9890668192108215
+    }
+  },
+  {
+    "calcaneusTalus": 745,
+    "tarsoMetatarsal": 1842,
+    "metatarsal": 2926,
+    "midPhalanges": 10184,
+    "distalPhalanges": 4746,
+    "phases": {
+      "LR": 0.000995322919360205,
+      "MSt": 0.000995322919360205,
+      "TSt": 0.001774146185069751,
+      "PSw": 0.010359855432689798,
+      "Sw": 0.98587535254352
+    }
+  },
+  {
+    "calcaneusTalus": 760,
+    "tarsoMetatarsal": 1770,
+    "metatarsal": 3115,
+    "midPhalanges": 10320,
+    "distalPhalanges": 3900,
+    "phases": {
+      "LR": 0.0010141214668854717,
+      "MSt": 0.0010141214668854717,
+      "TSt": 0.0017111550579448761,
+      "PSw": 0.006253862684615114,
+      "Sw": 0.9900067393236691
+    }
+  },
+  {
+    "calcaneusTalus": 850,
+    "tarsoMetatarsal": 1668,
+    "metatarsal": 3507,
+    "midPhalanges": 10888,
+    "distalPhalanges": 4002,
+    "phases": {
+      "LR": 0.001101377718317837,
+      "MSt": 0.001101377718317837,
+      "TSt": 0.0016350389216058389,
+      "PSw": 0.006764979437913609,
+      "Sw": 0.9893972262038448
+    }
+  },
+  {
+    "calcaneusTalus": 985,
+    "tarsoMetatarsal": 1710,
+    "metatarsal": 3906,
+    "midPhalanges": 10536,
+    "distalPhalanges": 3564,
+    "phases": {
+      "LR": 0.001203900267615931,
+      "MSt": 0.001203900267615931,
+      "TSt": 0.001661097496747825,
+      "PSw": 0.00513487700369414,
+      "Sw": 0.9907962249643262
+    }
+  },
+  {
+    "calcaneusTalus": 1055,
+    "tarsoMetatarsal": 1644,
+    "metatarsal": 4858,
+    "midPhalanges": 11392,
+    "distalPhalanges": 4146,
+    "phases": {
+      "LR": 0.0013029663111074864,
+      "MSt": 0.0013029663111074864,
+      "TSt": 0.0016406657954626785,
+      "PSw": 0.007516912555602877,
+      "Sw": 0.9882364890267195
+    }
+  },
+  {
+    "calcaneusTalus": 1095,
+    "tarsoMetatarsal": 1734,
+    "metatarsal": 5453,
+    "midPhalanges": 10952,
+    "distalPhalanges": 3654,
+    "phases": {
+      "LR": 0.0013215913847180506,
+      "MSt": 0.0013215913847180506,
+      "TSt": 0.001707254977709459,
+      "PSw": 0.005493175634691839,
+      "Sw": 0.9901563866181626
+    }
+  },
+  {
+    "calcaneusTalus": 1015,
+    "tarsoMetatarsal": 1578,
+    "metatarsal": 5894,
+    "midPhalanges": 10872,
+    "distalPhalanges": 4212,
+    "phases": {
+      "LR": 0.0012406744697389454,
+      "MSt": 0.0012406744697389454,
+      "TSt": 0.001545194488925711,
+      "PSw": 0.007670991942182155,
+      "Sw": 0.9883024646294143
+    }
+  },
+  {
+    "calcaneusTalus": 1090,
+    "tarsoMetatarsal": 1530,
+    "metatarsal": 6454,
+    "midPhalanges": 11096,
+    "distalPhalanges": 3810,
+    "phases": {
+      "LR": 0.0013231500570287035,
+      "MSt": 0.0013231500570287035,
+      "TSt": 0.0015149285436720345,
+      "PSw": 0.006068249839263384,
+      "Sw": 0.9897705215030072
+    }
+  },
+  {
+    "calcaneusTalus": 965,
+    "tarsoMetatarsal": 1440,
+    "metatarsal": 6398,
+    "midPhalanges": 10856,
+    "distalPhalanges": 4122,
+    "phases": {
+      "LR": 0.0011962020333097447,
+      "MSt": 0.0011962020333097447,
+      "TSt": 0.0014206326354378109,
+      "PSw": 0.007264283887303157,
+      "Sw": 0.9889226794106395
+    }
+  },
+  {
+    "calcaneusTalus": 1060,
+    "tarsoMetatarsal": 1362,
+    "metatarsal": 6286,
+    "midPhalanges": 10808,
+    "distalPhalanges": 3936,
+    "phases": {
+      "LR": 0.001281136285827152,
+      "MSt": 0.001281136285827152,
+      "TSt": 0.0013534063438141687,
+      "PSw": 0.0064832808247351804,
+      "Sw": 0.9896010402597963
+    }
+  },
+  {
+    "calcaneusTalus": 1145,
+    "tarsoMetatarsal": 1332,
+    "metatarsal": 6055,
+    "midPhalanges": 11128,
+    "distalPhalanges": 3972,
+    "phases": {
+      "LR": 0.0013783977519536206,
+      "MSt": 0.0013435469616087281,
+      "TSt": 0.0013435469616087281,
+      "PSw": 0.006699615443871545,
+      "Sw": 0.9892348928809573
+    }
+  },
+  {
+    "calcaneusTalus": 1235,
+    "tarsoMetatarsal": 1338,
+    "metatarsal": 5537,
+    "midPhalanges": 11368,
+    "distalPhalanges": 4218,
+    "phases": {
+      "LR": 0.0014844525835824376,
+      "MSt": 0.001359679307371695,
+      "TSt": 0.001359679307371695,
+      "PSw": 0.007842083347460489,
+      "Sw": 0.9879541054542137
+    }
+  },
+  {
+    "calcaneusTalus": 1165,
+    "tarsoMetatarsal": 1320,
+    "metatarsal": 5439,
+    "midPhalanges": 10744,
+    "distalPhalanges": 4296,
+    "phases": {
+      "LR": 0.0013782603708521108,
+      "MSt": 0.0013142463253876338,
+      "TSt": 0.0013142463253876338,
+      "PSw": 0.008034636800600875,
+      "Sw": 0.9879586101777718
+    }
+  },
+  {
+    "calcaneusTalus": 1195,
+    "tarsoMetatarsal": 1302,
+    "metatarsal": 5446,
+    "midPhalanges": 11256,
+    "distalPhalanges": 4416,
+    "phases": {
+      "LR": 0.001433840523634924,
+      "MSt": 0.001322961899243709,
+      "TSt": 0.001322961899243709,
+      "PSw": 0.008793674093995701,
+      "Sw": 0.987126561583882
+    }
+  },
+  {
+    "calcaneusTalus": 1225,
+    "tarsoMetatarsal": 1308,
+    "metatarsal": 5782,
+    "midPhalanges": 11192,
+    "distalPhalanges": 4110,
+    "phases": {
+      "LR": 0.0014641215518436273,
+      "MSt": 0.0013264178331731792,
+      "TSt": 0.0013264178331731792,
+      "PSw": 0.007297677141689163,
+      "Sw": 0.9885853656401209
+    }
+  },
+  {
+    "calcaneusTalus": 1290,
+    "tarsoMetatarsal": 1338,
+    "metatarsal": 6076,
+    "midPhalanges": 11056,
+    "distalPhalanges": 3528,
+    "phases": {
+      "LR": 0.0015307559951994677,
+      "MSt": 0.0013467948760418596,
+      "TSt": 0.0013467948760418596,
+      "PSw": 0.00511010453726864,
+      "Sw": 0.9906655497154482
+    }
+  },
+  {
+    "calcaneusTalus": 1250,
+    "tarsoMetatarsal": 1278,
+    "metatarsal": 6489,
+    "midPhalanges": 10624,
+    "distalPhalanges": 3570,
+    "phases": {
+      "LR": 0.0014653857790439648,
+      "MSt": 0.001279874898420827,
+      "TSt": 0.001279874898420827,
+      "PSw": 0.005167337087826779,
+      "Sw": 0.9908075273362876
+    }
+  },
+  {
+    "calcaneusTalus": 1015,
+    "tarsoMetatarsal": 1632,
+    "metatarsal": 7049,
+    "midPhalanges": 10408,
+    "distalPhalanges": 2634,
+    "phases": {
+      "LR": 0.001228895661063365,
+      "MSt": 0.001228895661063365,
+      "TSt": 0.0015817456559720636,
+      "PSw": 0.00291243561411185,
+      "Sw": 0.9930480274077893
+    }
+  },
+  {
+    "calcaneusTalus": 765,
+    "tarsoMetatarsal": 6780,
+    "metatarsal": 5453,
+    "midPhalanges": 10016,
+    "distalPhalanges": 2064,
+    "phases": {
+      "LR": 0.0010060734300012125,
+      "MSt": 0.0010060734300012125,
+      "TSt": 0.009880018524287581,
+      "PSw": 0.0020232576036469697,
+      "Sw": 0.986084577012063
+    }
+  },
+  {
+    "calcaneusTalus": 1155,
+    "tarsoMetatarsal": 18054,
+    "metatarsal": 3822,
+    "midPhalanges": 9968,
+    "distalPhalanges": 2400,
+    "phases": {
+      "LR": 0.034124419642115475,
+      "MSt": 0.034124419642115475,
+      "TSt": 0.10788535997603245,
+      "PSw": 0.06330459848106584,
+      "Sw": 0.7605612022586706
+    }
+  },
+  {
+    "calcaneusTalus": 17575,
+    "tarsoMetatarsal": 28926,
+    "metatarsal": 3850,
+    "midPhalanges": 9112,
+    "distalPhalanges": 1494,
+    "phases": {
+      "LR": 0.9914375324204877,
+      "MSt": 0.0042414772627607684,
+      "TSt": 0.0042414772627607684,
+      "PSw": 0.00003975652699537736,
+      "Sw": 0.00003975652699537736
+    }
+  },
+  {
+    "calcaneusTalus": 42495,
+    "tarsoMetatarsal": 40056,
+    "metatarsal": 3780,
+    "midPhalanges": 7808,
+    "distalPhalanges": 1146,
+    "phases": {
+      "LR": 0.9959557889557151,
+      "MSt": 0.004044210878072789,
+      "TSt": 5.54040188941509e-11,
+      "PSw": 5.54040188941509e-11,
+      "Sw": 5.54040188941509e-11
+    }
+  },
+  {
+    "calcaneusTalus": 57660,
+    "tarsoMetatarsal": 54048,
+    "metatarsal": 2674,
+    "midPhalanges": 6960,
+    "distalPhalanges": 1080,
+    "phases": {
+      "LR": 0.9977389658213921,
+      "MSt": 0.0022610341786055534,
+      "TSt": 8.253535013542039e-16,
+      "PSw": 8.253535013542039e-16,
+      "Sw": 8.253535013542039e-16
+    }
+  },
+  {
+    "calcaneusTalus": 57420,
+    "tarsoMetatarsal": 59562,
+    "metatarsal": 4270,
+    "midPhalanges": 4416,
+    "distalPhalanges": 1002,
+    "phases": {
+      "LR": 0.9948600962432985,
+      "MSt": 0.005139903756698802,
+      "TSt": 9.732077827595815e-16,
+      "PSw": 9.732077827595815e-16,
+      "Sw": 9.732077827595815e-16
+    }
+  },
+  {
+    "calcaneusTalus": 50430,
+    "tarsoMetatarsal": 65562,
+    "metatarsal": 6111,
+    "midPhalanges": 3776,
+    "distalPhalanges": 1020,
+    "phases": {
+      "LR": 0.9866420790791346,
+      "MSt": 0.01335792092068728,
+      "TSt": 1.6299531366229585e-13,
+      "PSw": 7.486754325769496e-15,
+      "Sw": 7.486754325769496e-15
+    }
+  },
+  {
+    "calcaneusTalus": 40425,
+    "tarsoMetatarsal": 70278,
+    "metatarsal": 12369,
+    "midPhalanges": 4256,
+    "distalPhalanges": 1476,
+    "phases": {
+      "LR": 0.7364255990543278,
+      "MSt": 0.26357440069712323,
+      "TSt": 2.485481278057054e-10,
+      "PSw": 4.2063680647151397e-16,
+      "Sw": 4.2063680647151397e-16
+    }
+  },
+  {
+    "calcaneusTalus": 33590,
+    "tarsoMetatarsal": 71580,
+    "metatarsal": 36953,
+    "midPhalanges": 7008,
+    "distalPhalanges": 1686,
+    "phases": {
+      "LR": 0.000007330876969527521,
+      "MSt": 0.9999926314556167,
+      "TSt": 3.7667413323771215e-8,
+      "PSw": 1.9257508606064712e-16,
+      "Sw": 1.9257508606064712e-16
+    }
+  },
+  {
+    "calcaneusTalus": 29680,
+    "tarsoMetatarsal": 71244,
+    "metatarsal": 48881,
+    "midPhalanges": 11840,
+    "distalPhalanges": 1866,
+    "phases": {
+      "LR": 1.5837331133947892e-8,
+      "MSt": 0.9999992508779315,
+      "TSt": 7.332847369256115e-7,
+      "PSw": 2.6240387341314967e-16,
+      "Sw": 2.6240387341314967e-16
+    }
+  },
+  {
+    "calcaneusTalus": 27105,
+    "tarsoMetatarsal": 69672,
+    "metatarsal": 54775,
+    "midPhalanges": 16504,
+    "distalPhalanges": 3012,
+    "phases": {
+      "LR": 1.3260328630425433e-9,
+      "MSt": 0.999991149776211,
+      "TSt": 0.000008848897753567906,
+      "PSw": 1.2534595417413143e-15,
+      "Sw": 1.2534595417413143e-15
+    }
+  },
+  {
+    "calcaneusTalus": 25115,
+    "tarsoMetatarsal": 66888,
+    "metatarsal": 57204,
+    "midPhalanges": 22008,
+    "distalPhalanges": 4518,
+    "phases": {
+      "LR": 2.5577269750753523e-9,
+      "MSt": 0.9997385734061464,
+      "TSt": 0.0002614240360323477,
+      "PSw": 4.7159271152085305e-14,
+      "Sw": 4.7159271152085305e-14
+    }
+  },
+  {
+    "calcaneusTalus": 22455,
+    "tarsoMetatarsal": 64164,
+    "metatarsal": 59535,
+    "midPhalanges": 28832,
+    "distalPhalanges": 5310,
+    "phases": {
+      "LR": 1.5425544101891865e-8,
+      "MSt": 0.9625247114790191,
+      "TSt": 0.03747527308527519,
+      "PSw": 5.080781579145001e-12,
+      "Sw": 5.080781579145001e-12
+    }
+  },
+  {
+    "calcaneusTalus": 19845,
+    "tarsoMetatarsal": 61662,
+    "metatarsal": 60739,
+    "midPhalanges": 34696,
+    "distalPhalanges": 6894,
+    "phases": {
+      "LR": 2.5730166577724168e-8,
+      "MSt": 0.2063062117890764,
+      "TSt": 0.793693762334149,
+      "PSw": 7.330387838001504e-11,
+      "Sw": 7.330387838001504e-11
+    }
+  },
+  {
+    "calcaneusTalus": 17555,
+    "tarsoMetatarsal": 59076,
+    "metatarsal": 62286,
+    "midPhalanges": 40328,
+    "distalPhalanges": 7620,
+    "phases": {
+      "LR": 2.6957034038653587e-9,
+      "MSt": 0.0036852429424827473,
+      "TSt": 0.9963147541944728,
+      "PSw": 8.367054299952078e-11,
+      "Sw": 8.367054299952078e-11
+    }
+  },
+  {
+    "calcaneusTalus": 14780,
+    "tarsoMetatarsal": 57054,
+    "metatarsal": 63385,
+    "midPhalanges": 44744,
+    "distalPhalanges": 8460,
+    "phases": {
+      "LR": 2.0551886691278394e-10,
+      "MSt": 0.00006611156365490327,
+      "TSt": 0.9999338881529062,
+      "PSw": 3.895994926415355e-11,
+      "Sw": 3.895994926415355e-11
+    }
+  },
+  {
+    "calcaneusTalus": 11270,
+    "tarsoMetatarsal": 54444,
+    "metatarsal": 64680,
+    "midPhalanges": 50408,
+    "distalPhalanges": 9366,
+    "phases": {
+      "LR": 1.1314622581668759e-11,
+      "MSt": 5.358789191101201e-7,
+      "TSt": 0.9999994640871371,
+      "PSw": 1.1314622581668759e-11,
+      "Sw": 1.1314622581668759e-11
+    }
+  },
+  {
+    "calcaneusTalus": 7285,
+    "tarsoMetatarsal": 50004,
+    "metatarsal": 67186,
+    "midPhalanges": 57600,
+    "distalPhalanges": 10830,
+    "phases": {
+      "LR": 1.0858333317346458e-12,
+      "MSt": 7.088510532420025e-9,
+      "TSt": 0.9999999929082318,
+      "PSw": 1.0858333317346458e-12,
+      "Sw": 1.0858333317346458e-12
+    }
+  },
+  {
+    "calcaneusTalus": 4430,
+    "tarsoMetatarsal": 43464,
+    "metatarsal": 69300,
+    "midPhalanges": 66568,
+    "distalPhalanges": 12420,
+    "phases": {
+      "LR": 3.267316981768182e-13,
+      "MSt": 1.061939186548511e-10,
+      "TSt": 0.9999999998928258,
+      "PSw": 3.267316981768182e-13,
+      "Sw": 3.267316981768182e-13
+    }
+  },
+  {
+    "calcaneusTalus": 2590,
+    "tarsoMetatarsal": 34260,
+    "metatarsal": 70553,
+    "midPhalanges": 77728,
+    "distalPhalanges": 13974,
+    "phases": {
+      "LR": 1.6784552866711428e-13,
+      "MSt": 6.344220416967627e-13,
+      "TSt": 0.999999999998862,
+      "PSw": 1.6784552866711428e-13,
+      "Sw": 1.6784552866711428e-13
+    }
+  },
+  {
+    "calcaneusTalus": 1275,
+    "tarsoMetatarsal": 26826,
+    "metatarsal": 71841,
+    "midPhalanges": 87632,
+    "distalPhalanges": 15852,
+    "phases": {
+      "LR": 6.7912891890476935e-15,
+      "MSt": 6.7912891890476935e-15,
+      "TSt": 0.9999999999998943,
+      "PSw": 8.535135462471138e-14,
+      "Sw": 6.7912891890476935e-15
+    }
+  },
+  {
+    "calcaneusTalus": 685,
+    "tarsoMetatarsal": 21210,
+    "metatarsal": 72660,
+    "midPhalanges": 94704,
+    "distalPhalanges": 17292,
+    "phases": {
+      "LR": 2.672506283843574e-16,
+      "MSt": 2.672506283843574e-16,
+      "TSt": 0.9999999999999435,
+      "PSw": 5.5761906825269396e-14,
+      "Sw": 2.672506283843574e-16
+    }
+  },
+  {
+    "calcaneusTalus": 495,
+    "tarsoMetatarsal": 16686,
+    "metatarsal": 73157,
+    "midPhalanges": 100200,
+    "distalPhalanges": 18570,
+    "phases": {
+      "LR": 2.294935713748656e-17,
+      "MSt": 2.294935713748656e-17,
+      "TSt": 0.9999999999999543,
+      "PSw": 4.572312753037299e-14,
+      "Sw": 2.294935713748656e-17
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 12738,
+    "metatarsal": 72905,
+    "midPhalanges": 104416,
+    "distalPhalanges": 19980,
+    "phases": {
+      "LR": 5.48165356014236e-18,
+      "MSt": 5.48165356014236e-18,
+      "TSt": 0.9999999999999141,
+      "PSw": 8.588353895958422e-14,
+      "Sw": 5.48165356014236e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 9996,
+    "metatarsal": 72492,
+    "midPhalanges": 107672,
+    "distalPhalanges": 21630,
+    "phases": {
+      "LR": 3.541415208239343e-18,
+      "MSt": 3.541415208239343e-18,
+      "TSt": 0.9999999999996942,
+      "PSw": 3.058428814928476e-13,
+      "Sw": 3.541415208239343e-18
+    }
+  },
+  {
+    "calcaneusTalus": 475,
+    "tarsoMetatarsal": 7596,
+    "metatarsal": 71421,
+    "midPhalanges": 110096,
+    "distalPhalanges": 23298,
+    "phases": {
+      "LR": 4.282165710283661e-18,
+      "MSt": 4.282165710283661e-18,
+      "TSt": 0.9999999999980349,
+      "PSw": 1.965169237086877e-12,
+      "Sw": 4.282165710283661e-18
+    }
+  },
+  {
+    "calcaneusTalus": 470,
+    "tarsoMetatarsal": 5772,
+    "metatarsal": 69958,
+    "midPhalanges": 111776,
+    "distalPhalanges": 24894,
+    "phases": {
+      "LR": 5.8230151030967696e-18,
+      "MSt": 5.8230151030967696e-18,
+      "TSt": 0.9999999999875995,
+      "PSw": 1.2400492629564478e-11,
+      "Sw": 5.8230151030967696e-18
+    }
+  },
+  {
+    "calcaneusTalus": 485,
+    "tarsoMetatarsal": 4434,
+    "metatarsal": 68201,
+    "midPhalanges": 113312,
+    "distalPhalanges": 26394,
+    "phases": {
+      "LR": 6.4562015986901204e-18,
+      "MSt": 6.4562015986901204e-18,
+      "TSt": 0.999999999930337,
+      "PSw": 6.966303224594415e-11,
+      "Sw": 6.4562015986901204e-18
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 3474,
+    "metatarsal": 66759,
+    "midPhalanges": 114696,
+    "distalPhalanges": 27126,
+    "phases": {
+      "LR": 6.133529190677707e-18,
+      "MSt": 6.133529190677707e-18,
+      "TSt": 0.9999999997347488,
+      "PSw": 2.6525120839094155e-10,
+      "Sw": 6.133529190677707e-18
+    }
+  },
+  {
+    "calcaneusTalus": 500,
+    "tarsoMetatarsal": 2742,
+    "metatarsal": 65786,
+    "midPhalanges": 115560,
+    "distalPhalanges": 28722,
+    "phases": {
+      "LR": 6.445592578805193e-18,
+      "MSt": 6.445592578805193e-18,
+      "TSt": 0.9999999993111212,
+      "PSw": 6.888789080896955e-10,
+      "Sw": 6.445592578805193e-18
+    }
+  },
+  {
+    "calcaneusTalus": 480,
+    "tarsoMetatarsal": 2244,
+    "metatarsal": 63791,
+    "midPhalanges": 116192,
+    "distalPhalanges": 28746,
+    "phases": {
+      "LR": 6.535685484417452e-18,
+      "MSt": 6.535685484417452e-18,
+      "TSt": 0.9999999973500939,
+      "PSw": 2.64990613723989e-9,
+      "Sw": 6.535685484417452e-18
+    }
+  }
+]
