@@ -1,0 +1,439 @@
+[
+    {
+        "Numero_zancada": 1,
+        "Tiempo_inicio": "00:02.531250",
+        "Tiempo_final": "00:03.593750",
+        "Tiempo_zancada": 1.0625,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0432
+            },
+            "MSt": {
+                "Duracion": 0.2593
+            },
+            "TSt": {
+                "Duracion": 0.3661
+            },
+            "PSw": {
+                "Duracion": 0.006
+            },
+            "Sw": {
+                "Duracion": 0.3879
+            }
+        }
+    },
+    {
+        "Numero_zancada": 2,
+        "Tiempo_inicio": "00:08.093750",
+        "Tiempo_final": "00:09.171875",
+        "Tiempo_zancada": 1.0781,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0512
+            },
+            "MSt": {
+                "Duracion": 0.3036
+            },
+            "TSt": {
+                "Duracion": 0.3481
+            },
+            "PSw": {
+                "Duracion": 0.0036
+            },
+            "Sw": {
+                "Duracion": 0.3716
+            }
+        }
+    },
+    {
+        "Numero_zancada": 3,
+        "Tiempo_inicio": "00:09.171875",
+        "Tiempo_final": "00:10.265625",
+        "Tiempo_zancada": 1.0938,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0821
+            },
+            "MSt": {
+                "Duracion": 0.1976
+            },
+            "TSt": {
+                "Duracion": 0.4488
+            },
+            "PSw": {
+                "Duracion": 0.0052
+            },
+            "Sw": {
+                "Duracion": 0.36
+            }
+        }
+    },
+    {
+        "Numero_zancada": 4,
+        "Tiempo_inicio": "00:14.875000",
+        "Tiempo_final": "00:15.953125",
+        "Tiempo_zancada": 1.0781,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0406
+            },
+            "MSt": {
+                "Duracion": 0.2546
+            },
+            "TSt": {
+                "Duracion": 0.4108
+            },
+            "PSw": {
+                "Duracion": 0.0034
+            },
+            "Sw": {
+                "Duracion": 0.3687
+            }
+        }
+    },
+    {
+        "Numero_zancada": 5,
+        "Tiempo_inicio": "00:21.718750",
+        "Tiempo_final": "00:22.828125",
+        "Tiempo_zancada": 1.1094,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0484
+            },
+            "MSt": {
+                "Duracion": 0.2814
+            },
+            "TSt": {
+                "Duracion": 0.3724
+            },
+            "PSw": {
+                "Duracion": 0.0024
+            },
+            "Sw": {
+                "Duracion": 0.4047
+            }
+        }
+    },
+    {
+        "Numero_zancada": 6,
+        "Tiempo_inicio": "00:26.562500",
+        "Tiempo_final": "00:27.625000",
+        "Tiempo_zancada": 1.0625,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0324
+            },
+            "MSt": {
+                "Duracion": 0.2694
+            },
+            "TSt": {
+                "Duracion": 0.3906
+            },
+            "PSw": {
+                "Duracion": 0.0039
+            },
+            "Sw": {
+                "Duracion": 0.3662
+            }
+        }
+    },
+    {
+        "Numero_zancada": 7,
+        "Tiempo_inicio": "00:27.625000",
+        "Tiempo_final": "00:28.750000",
+        "Tiempo_zancada": 1.125,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0577
+            },
+            "MSt": {
+                "Duracion": 0.2018
+            },
+            "TSt": {
+                "Duracion": 0.4686
+            },
+            "PSw": {
+                "Duracion": 0.0032
+            },
+            "Sw": {
+                "Duracion": 0.3937
+            }
+        }
+    },
+    {
+        "Numero_zancada": 8,
+        "Tiempo_inicio": "00:33.437500",
+        "Tiempo_final": "00:34.562500",
+        "Tiempo_zancada": 1.125,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0777
+            },
+            "MSt": {
+                "Duracion": 0.2242
+            },
+            "TSt": {
+                "Duracion": 0.4461
+            },
+            "PSw": {
+                "Duracion": 0.0046
+            },
+            "Sw": {
+                "Duracion": 0.3724
+            }
+        }
+    },
+    {
+        "Numero_zancada": 9,
+        "Tiempo_inicio": "00:34.562500",
+        "Tiempo_final": "00:35.671875",
+        "Tiempo_zancada": 1.1094,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0367
+            },
+            "MSt": {
+                "Duracion": 0.2345
+            },
+            "TSt": {
+                "Duracion": 0.4215
+            },
+            "PSw": {
+                "Duracion": 0.002
+            },
+            "Sw": {
+                "Duracion": 0.4146
+            }
+        }
+    },
+    {
+        "Numero_zancada": 10,
+        "Tiempo_inicio": "00:40.281250",
+        "Tiempo_final": "00:41.343750",
+        "Tiempo_zancada": 1.0625,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0428
+            },
+            "MSt": {
+                "Duracion": 0.1938
+            },
+            "TSt": {
+                "Duracion": 0.4545
+            },
+            "PSw": {
+                "Duracion": 0.0028
+            },
+            "Sw": {
+                "Duracion": 0.3686
+            }
+        }
+    },
+    {
+        "Numero_zancada": 11,
+        "Tiempo_inicio": "00:41.343750",
+        "Tiempo_final": "00:42.437500",
+        "Tiempo_zancada": 1.0938,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0551
+            },
+            "MSt": {
+                "Duracion": 0.2491
+            },
+            "TSt": {
+                "Duracion": 0.4055
+            },
+            "PSw": {
+                "Duracion": 0.0041
+            },
+            "Sw": {
+                "Duracion": 0.3799
+            }
+        }
+    },
+    {
+        "Numero_zancada": 12,
+        "Tiempo_inicio": "00:46.046875",
+        "Tiempo_final": "00:47.140625",
+        "Tiempo_zancada": 1.0938,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0526
+            },
+            "MSt": {
+                "Duracion": 0.2292
+            },
+            "TSt": {
+                "Duracion": 0.4325
+            },
+            "PSw": {
+                "Duracion": 0.0038
+            },
+            "Sw": {
+                "Duracion": 0.3758
+            }
+        }
+    },
+    {
+        "Numero_zancada": 13,
+        "Tiempo_inicio": "00:47.140625",
+        "Tiempo_final": "00:48.234375",
+        "Tiempo_zancada": 1.0938,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0575
+            },
+            "MSt": {
+                "Duracion": 0.1794
+            },
+            "TSt": {
+                "Duracion": 0.4781
+            },
+            "PSw": {
+                "Duracion": 0.003
+            },
+            "Sw": {
+                "Duracion": 0.3758
+            }
+        }
+    },
+    {
+        "Numero_zancada": 14,
+        "Tiempo_inicio": "00:48.234375",
+        "Tiempo_final": "00:49.328125",
+        "Tiempo_zancada": 1.0938,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0523
+            },
+            "MSt": {
+                "Duracion": 0.2138
+            },
+            "TSt": {
+                "Duracion": 0.4531
+            },
+            "PSw": {
+                "Duracion": 0.0018
+            },
+            "Sw": {
+                "Duracion": 0.3727
+            }
+        }
+    },
+    {
+        "Numero_zancada": 15,
+        "Tiempo_inicio": "00:54.015625",
+        "Tiempo_final": "00:55.093750",
+        "Tiempo_zancada": 1.0781,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0627
+            },
+            "MSt": {
+                "Duracion": 0.2661
+            },
+            "TSt": {
+                "Duracion": 0.3808
+            },
+            "PSw": {
+                "Duracion": 0.0033
+            },
+            "Sw": {
+                "Duracion": 0.3653
+            }
+        }
+    },
+    {
+        "Numero_zancada": 16,
+        "Tiempo_inicio": "00:55.093750",
+        "Tiempo_final": "00:56.218750",
+        "Tiempo_zancada": 1.125,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0605
+            },
+            "MSt": {
+                "Duracion": 0.1926
+            },
+            "TSt": {
+                "Duracion": 0.4865
+            },
+            "PSw": {
+                "Duracion": 0.0032
+            },
+            "Sw": {
+                "Duracion": 0.3821
+            }
+        }
+    },
+    {
+        "Numero_zancada": 17,
+        "Tiempo_inicio": "00:59.875000",
+        "Tiempo_final": "01:00.984375",
+        "Tiempo_zancada": 1.1094,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0591
+            },
+            "MSt": {
+                "Duracion": 0.1923
+            },
+            "TSt": {
+                "Duracion": 0.4725
+            },
+            "PSw": {
+                "Duracion": 0.0032
+            },
+            "Sw": {
+                "Duracion": 0.3822
+            }
+        }
+    },
+    {
+        "Numero_zancada": 18,
+        "Tiempo_inicio": "01:05.765625",
+        "Tiempo_final": "01:08.015625",
+        "Tiempo_zancada": 2.25,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.1072
+            },
+            "MSt": {
+                "Duracion": 0.4597
+            },
+            "TSt": {
+                "Duracion": 0.9538
+            },
+            "PSw": {
+                "Duracion": 0.0111
+            },
+            "Sw": {
+                "Duracion": 0.7183
+            }
+        }
+    },
+    {
+        "Numero_zancada": 19,
+        "Tiempo_inicio": "01:08.015625",
+        "Tiempo_final": "01:09.187500",
+        "Tiempo_zancada": 1.1719,
+        "Fases": {
+            "LR": {
+                "Duracion": 0.0574
+            },
+            "MSt": {
+                "Duracion": 0.2374
+            },
+            "TSt": {
+                "Duracion": 0.5039
+            },
+            "PSw": {
+                "Duracion": 0.0077
+            },
+            "Sw": {
+                "Duracion": 0.3656
+            }
+        }
+    }
+]
